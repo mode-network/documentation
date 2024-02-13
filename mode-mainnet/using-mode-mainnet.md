@@ -4,11 +4,11 @@ description: How to setup the Mode Mainnet in Metamask
 
 # 🖥 Using Mode Mainnet
 
-This guide is to show you how to add the Mode Dev Mainnet to your Metamask wallet.
+This guide is to show you how to add the Mode Mainnet to your Metamask wallet.
 
 #### MetaMask[​](https://docs.base.org/using-base#metamask) <a href="#metamask" id="metamask"></a>
 
-To add Mode Dev Mainnet as a custom network to MetaMask:
+To add Mode Mainnet as a custom network to MetaMask:
 
 1. Open the MetaMask browser extension.
 2. Open the network selection dropdown menu by clicking the dropdown button at the top of the extension.
