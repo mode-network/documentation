@@ -6,6 +6,9 @@ description: Get Sepolia ETH or Mode testnet ETH
 
 ### Mode Testnet ETH
 
+### [Superchain Faucet](https://app.optimism.io/faucet)
+The Superchain Faucet provides testnet ETH for all OP Chains, including Mode.
+
 ### [Automata L2Faucet](https://www.l2faucet.com/mode)
 
 {% hint style="info" %}
