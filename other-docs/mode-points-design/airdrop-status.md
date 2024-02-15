@@ -15,7 +15,7 @@ Ecosystem Points
 * dApps
   * Kim exchange <mark style="color:green;">**`LIVE`**</mark>
   * Mode NS <mark style="color:yellow;">**`pending`**</mark>
-  * Ionic <mark style="color:yellow;">**`pending`**</mark>
+  * Ionic <mark style="color:green;">**`LIVE`**</mark>
   * SupSwap <mark style="color:yellow;">**`pending`**</mark>
   * LogX <mark style="color:yellow;">**`pending`**</mark>
   * Poolshark <mark style="color:yellow;">**`pending`**</mark>
