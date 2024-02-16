@@ -12,47 +12,64 @@ We understand that the 7 days finalisation period may be inconvenient but this i
 Third party bridges will be available soon to improve withdrawal times.
 {% endhint %}
 
-## The three steps to withdraw:
+## Step-By-Step How to Withdraw:
 
 <details>
 
-<summary>Bridge to Ethereum</summary>
+<summary>1 - Bridge to Ethereum</summary>
 
 First, go to [Mode's Bridge](https://app.mode.network/), click on **`Switch`** and select the token and input the amount you want to withdraw.&#x20;
 
-Click on <mark style="color:purple;">**`Bridge to ethereum`**</mark> and approve the transaction.&#x20;
+Click on <mark style="color:purple;">**`Review Withdrawal`**</mark> , then check the 7 days checkbox and initiate the withdrawal.&#x20;
 
-If you click on <mark style="color:purple;">**`Pending withdrawals`**</mark> you can check the status of your transaction.&#x20;
+If you click on <mark style="color:purple;">**`Transaccions`**</mark> on the top right of the page you can check the status of your transaction.
 
-Your withdrawal should be in status `Submitting to L1`. &#x20;
+![](<../../.gitbook/assets/image (20).png>)
 
-**Please wait up to 1 hour until the status of your tx is `Submitted, ready to confirm`**
+**Please wait up to 1 hour until the status of your tx is ready to prove.**
+
+</details>
+
+{% hint style="danger" %}
+The steps to Prove and Finalize withdrawals are executed on Ethereum Mainnet. You will need ETH on Ethereum Mainnet to pay for these fees. This is also why these fees may seem high.\
+\
+Make sure you have ETH on Ethereum to pay for gas.
+{% endhint %}
+
+<details>
+
+<summary>2 - Prove Withdrawal </summary>
+
+After waiting for 1 hour, your transaction should be ready to "Prove withdrawal".
+
+<img src="../../.gitbook/assets/image (19).png" alt="" data-size="original">\
+\
+Now click <mark style="color:purple;">**`Prove`**</mark> and submit the transaction, this will start the[ 7 day waiting period for the withdrawal.](#user-content-fn-1)[^1]&#x20;
 
 </details>
 
 <details>
 
-<summary>Prove Withdrawal </summary>
+<summary>3 - Finalize Withdrawals</summary>
 
-After waiting for 1 hour, your transaction should be in status `Submitted, ready to confirm`.\
+After proving the transaction you will have to wait 7 days until the status of the transaction is ready to finalise.\
 \
-Now click <mark style="color:purple;">**`Prove Withdrawals`**</mark> and submit the transaction, this will start the[ 7 day waiting period for the withdrawal.](#user-content-fn-1)[^1]
+![](<../../.gitbook/assets/image (21).png>) \
+\
+You can now  click <mark style="color:purple;">**`Claim`**</mark> and after approving the transcation you should see the funds in your wallet on the Ethereum network shortly. \
+\
+The fees paid here are on Ethereum network.
 
 </details>
 
-<details>
+### Understanding the Bridge Interface
 
-<summary>Finalize Withdrawals</summary>
+<figure><img src="../../.gitbook/assets/Pasted Graphic 3 copy.png" alt=""><figcaption></figcaption></figure>
 
-After proving the transaction you will have to wait 7 days until the status of the transaction is `Ready to finalise`. \
-\
-You can now  click <mark style="color:purple;">**`Finalize withdrawals`**</mark> and you should see your funds on Ethereum Mainnet shortly.
-
-</details>
-
-## Withdrawal Status Cheatsheet
-
-<table data-full-width="true"><thead><tr><th width="240">Status</th><th>What should I do next?</th><th>Image</th></tr></thead><tbody><tr><td><strong>Submitting to L1</strong></td><td>Wait up to 1 hour until the status changes to<br><br><code>Submitted, ready to confirm</code></td><td><img src="../../.gitbook/assets/image (3).png" alt="" data-size="original"></td></tr><tr><td><strong>Submitted, ready to confirm</strong></td><td>Click on <code>Prove Withdrawals</code> and approve the transaction in your wallet.<br><br>Wait 7 days until the status is<br><strong><code>Ready to finalise</code></strong></td><td><img src="../../.gitbook/assets/image (6).png" alt="" data-size="original"></td></tr><tr><td><strong>Ready to finalise</strong></td><td>Click on <code>Finalize withdrawals</code> to get your funds in Ethereum</td><td><img src="../../.gitbook/assets/image (9).png" alt="" data-size="original"></td></tr></tbody></table>
+1. <mark style="color:red;">**Transactions:**</mark> This button takes you to the pending withdrawals you started. If you started a withdrawal your transaction should be shown here until it's finalized.
+2. <mark style="color:red;">**Switch:**</mark> This button switches the "From" and "To". It's the switch to deposit or withdraw from Mode.
+3. <mark style="color:red;">**Estimated Gas Fees:**</mark> These is the estimated gas fees are what Mode estimates you will spend.
+4. <mark style="color:red;">**Switch Network:**</mark> If you are seeing this button, it means your wallet is set to the incorrect chain. Clicking it will ask you to change chains from Mode to Ethereum or viceversa.
 
 
 
