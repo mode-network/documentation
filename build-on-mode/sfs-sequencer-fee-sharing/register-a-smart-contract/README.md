@@ -4,7 +4,7 @@ description: Learn to register a smart contract to the SFS
 
 # Register a Smart Contract
 
-Registering a contract in the SFS means calling the <mark style="color:orange;">`register`</mark>  register defined in the SFS contract and getting an SFS NFT in exchange. The call to the register function must be made from your smart contract. This means you will have to add some code and logic to your contract in order to register it to the SFS. You’ll find code to do this later on this guide.
+Registering a contract in the SFS means calling the <mark style="color:orange;">`register`</mark>  function defined in the SFS contract and getting an SFS NFT in exchange. The call to the register function must be made from your smart contract. This means you will have to add some code and logic to your contract in order to register it to the SFS. You’ll find code to do this later on this guide.
 
 This is the register function from the SFS:
 
