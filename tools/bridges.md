@@ -4,7 +4,7 @@
 
 You can use the Mode bridge to deposit and withdraw from Ethereum to Mode. Check out [bridge-to-mode.md](../mode-mainnet/bridge/bridge-to-mode.md "mention")
 
-[Access the Mode Mainnet Bridge here](https://bridge.mode.network/)
+[Access the Mode Mainnet Bridge here](https://app.mode.network/)
 
 ### **Mode Testnet Bridge**&#x20;
 
