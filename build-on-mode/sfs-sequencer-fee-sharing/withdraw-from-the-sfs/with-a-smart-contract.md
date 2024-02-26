@@ -112,7 +112,7 @@ We added an additional function checkBalance to help us check our balance in the
 
 ### **Deploying Our Contract to Thirdweb**
 
-You can learn in details the step by step guide on how to deploy to Mode using thirdweb from this [article](http://link/).
+You can learn in details the step by step guide on how to deploy to Mode using thirdweb from this [article](https://docs.mode.network/build-on-mode/deploying-a-smart-contract/using-thirdweb).
 
 ### **Test**
 
