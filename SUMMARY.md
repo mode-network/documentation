@@ -13,14 +13,14 @@
 
 ## Mode Mainnet
 
-* [ℹ Network Details](mode-mainnet/network-details.md)
-* [🖥 Using Mode Mainnet](mode-mainnet/using-mode-mainnet.md)
+* [ℹ️ Network Details](mode-mainnet/network-details.md)
+* [🖥️ Using Mode Mainnet](mode-mainnet/using-mode-mainnet.md)
 * [🏡 Mainnet Contract Addresses](mode-mainnet/mainnet-contract-addresses/README.md)
   * [L1/L2 Contracts](mode-mainnet/mainnet-contract-addresses/l1-l2-contracts.md)
   * [Token Addresses](mode-mainnet/mainnet-contract-addresses/token-addresses.md)
 * [🌉 Bridge](mode-mainnet/bridge/README.md)
-  * [➡ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
-  * [⬅ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
+  * [➡️ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
+  * [⬅️ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
 
 ## Build on Mode
 
@@ -44,8 +44,8 @@
 
 ## Mode Testnet
 
-* [ℹ Network Details](mode-testnet/network-details.md)
-* [🖥 Using Mode Testnet](mode-testnet/using-mode-testnet.md)
+* [ℹ️ Network Details](mode-testnet/network-details.md)
+* [🖥️ Using Mode Testnet](mode-testnet/using-mode-testnet.md)
 * [🏡 Testnet Contract Addresses](mode-testnet/testnet-contract-addresses.md)
 * [🌉 Bridging to Mode Testnet](mode-testnet/bridging-to-mode-testnet.md)
 
@@ -53,9 +53,9 @@
 
 * [🔁 Bridges](tools/bridges.md)
 * [🚰 Testnet Faucets](tools/testnet-faucets.md)
-* [🕵 Block Explorers](tools/block-explorers.md)
-* [🗂 Data Indexers](tools/data-indexers.md)
-* [🧙♂ Oracles](tools/oracles.md)
+* [🕵️ Block Explorers](tools/block-explorers.md)
+* [🗂️ Data Indexers](tools/data-indexers.md)
+* [🧙‍♂️ Oracles](tools/oracles.md)
 
 ## Other Docs
 
