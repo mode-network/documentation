@@ -23,13 +23,13 @@ Mode is the Modular DeFi L2 building the Superchain alongside Optimism.
 
 The goal of Mode is to empower developers and users to grow an ecosystem of world-class applications and be directly rewarded for their contribution. \
 \
-Mode builds new onchain economic systems to enable developers to scale their applications, provide higher yields for users. If you have ever deployed to any EVM chains you can deploy to Mode quickly and easily.&#x20;
+Mode builds new onchain economic systems to enable developers to scale their applications and provide higher yields for users. If you have ever deployed to any EVM chains you can deploy to Mode quickly and easily.&#x20;
 
 Build experimental DeFi on Mode, get hands-on support to scale your application and earn predictable revenue through sequencer fee sharing and developer airdrops.
 
 ### The Onchain Cooperative
 
-The goal of Mode is to empower developers and users to grow an ecosystem of world-class applications and be directly rewarded for their contribution to the ecosystem. We have built in mechanisms into the protocol such as Sequencer Fee Sharing and user referral fees as ways of rewarding whoever helps the ecosystem grow.&#x20;
+The goal of Mode is to empower developers and users to grow an ecosystem of world-class applications and be directly rewarded for their contribution to the ecosystem. We have built-in mechanisms into the protocol such as Sequencer Fee Sharing and user referral fees as ways of rewarding whoever helps the ecosystem grow.&#x20;
 
 Mode is committed to rewarding developers who grow the Mode ecosystem via the following mechanisms:&#x20;
 

@@ -24,11 +24,11 @@ represents the Mode Reward Points user $$u$$ earns during the Mode Sunrise perio
 * Ecosystem Points ($$P_{E}$$)
 * Veteran Points ($$P_{V}$$).
 
-In the following section, we explain each part of formula.
+In the following section, we explain each part of the formula.
 
 #### Referral Points
 
-Referral Points incentivizes cooperative onboarding activities. These points are calculated by the formula:
+Referral Points incentivize cooperative onboarding activities. These points are calculated by the formula:
 
 $$P_{R} = \;m_{RP}\cdot \alpha RP_{u,t}$$
 
@@ -44,7 +44,7 @@ The share multiplier $$\alpha$$ and referral multiplier $$w_{RP}$$ are optimized
 
 #### Ecosystem Points
 
-Ecosystem points incentivizes asset onboarding to Mode, along with user activity across various ecosystem protocols at launch. It is calculated by:
+Ecosystem points incentivize asset onboarding to Mode, along with user activity across various ecosystem protocols at launch. It is calculated by:
 
 $$P_{E} = \int_{0}^{T} (m_{AoM} \cdot AoM_t + m_{TVL} \cdot TVL_t + m_{Fees} \cdot Fees_t) \; dt$$
 
