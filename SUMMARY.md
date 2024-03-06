@@ -22,6 +22,13 @@
   * [➡️ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
   * [⬅️ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
 
+## Mode Testnet
+
+* [ℹ️ Network Details](mode-testnet/network-details.md)
+* [🖥️ Using Mode Testnet](mode-testnet/using-mode-testnet.md)
+* [🏡 Testnet Contract Addresses](mode-testnet/testnet-contract-addresses.md)
+* [🌉 Bridging to Mode Testnet](mode-testnet/bridging-to-mode-testnet.md)
+
 ## Build on Mode
 
 * [Interacting with Smart Contracts using ethers.js](build-on-mode/interacting-with-smart-contracts-using-ethers.js.md)
@@ -41,13 +48,9 @@
   * [Using Thirdweb](build-on-mode/deploying-a-smart-contract/using-thirdweb.md)
   * [Using Foundry](build-on-mode/deploying-a-smart-contract/using-foundry.md)
   * [Using Remix](build-on-mode/deploying-a-smart-contract/using-remix.md)
-
-## Mode Testnet
-
-* [ℹ️ Network Details](mode-testnet/network-details.md)
-* [🖥️ Using Mode Testnet](mode-testnet/using-mode-testnet.md)
-* [🏡 Testnet Contract Addresses](mode-testnet/testnet-contract-addresses.md)
-* [🌉 Bridging to Mode Testnet](mode-testnet/bridging-to-mode-testnet.md)
+* [Verifying your smart contract](build-on-mode/verifying-your-smart-contract/README.md)
+  * [Using Hardhat](build-on-mode/verifying-your-smart-contract/using-hardhat.md)
+  * [Using Foundry](build-on-mode/verifying-your-smart-contract/using-foundry.md)
 
 ## Tools
 
