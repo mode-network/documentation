@@ -1,6 +1,6 @@
 # Assignment
 
-{% hint style="info" %}
+{% hint style="danger" %}
 To assign your contact to an SFS NFT you need to do some code changes so please check [assign-a-smart-contract](../../build-on-mode/sfs-sequencer-fee-sharing/assign-a-smart-contract/ "mention") before deploying your final version.
 {% endhint %}
 
@@ -46,4 +46,3 @@ Here are a few things to note:
 
 1. The assign function needs to be called by a smart contract and not an EOA. It’s the same as the register function at this point.
 2. The assign function does not mint an ownership NFT, rather, it assigns your smart contract to an existing SFS NFT
-3. You can assign a contract to an SFS NFT and then change it to another one.

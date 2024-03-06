@@ -24,6 +24,12 @@ Developers can earn a share of the network Sequencer fees by registering their c
 \
 A portion of transaction fees of all transactions involving their smart contract will accumulate in the Fee Sharing Contract.
 
-The SFS contract issues an NFT as a claim to the earned fees by the recipient specified in the call to register the smart contract. This NFT is transferable and can be used to claim fees for multiple contracts. Several contracts can be assing to one SFS NFT, but each contract will only be linked to one SFS NFT.
+The SFS contract issues an NFT as a claim to the earned fees by the recipient specified in the call to register the smart contract. This NFT is transferable and can be used to claim fees for multiple contracts. Several contracts can be assigned to one SFS NFT, but each contract will only be linked to one SFS NFT.
 
-An offchain component will process the transactions for each smart contract to calculate it's share of fees. This component will also deposit the earned fees in the SFS contract for devs to later withdraw. Note that withdrawals can be done in the end of each epoch which on mainnet happens every 2 weeks and every 24 hours on testnet.
+An offchain component will process the transactions for each smart contract to calculate it's share of fees. This component will also deposit the earned fees in the SFS contract for devs to later withdraw. \
+\
+Note that withdrawals can be done in the end of each epoch which on mainnet happens every first day of each month and every 24 hours on testnet.\
+\
+You can easily claim the rewards on our [developer dashboard](https://app.mode.network/developers/) or check [withdraw-from-the-sfs](../../build-on-mode/sfs-sequencer-fee-sharing/withdraw-from-the-sfs/ "mention"):&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Screenshot from KIM exchange on the first month of SFS revenue</p></figcaption></figure>

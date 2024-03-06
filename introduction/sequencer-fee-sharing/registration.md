@@ -14,7 +14,7 @@ layout:
 
 # Registration
 
-{% hint style="info" %}
+{% hint style="danger" %}
 To register your contact you need to do some code changes so please check [register-a-smart-contract](../../build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/ "mention") before deploying your final version.
 {% endhint %}
 
