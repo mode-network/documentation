@@ -17,9 +17,9 @@ Ecosystem Points
   * Ionic <mark style="color:green;">**`LIVE`**</mark>
   * SupSwap <mark style="color:green;">**`LIVE`**</mark>
   * Mode NS <mark style="color:green;">**`LIVE`**</mark>
-  * Layerbank <mark style="color:yellow;">**`pending`**</mark>
-  * LogX <mark style="color:yellow;">**`pending`**</mark>
-  * Poolshark <mark style="color:yellow;">**`pending`**</mark>
+  * Layerbank <mark style="color:green;">**`LIVE`**</mark>
+  * LogX <mark style="color:green;">**`LIVE`**</mark>
+  * Poolshark <mark style="color:green;">**`LIVE`**</mark>
   * SwapMode <mark style="color:yellow;">**`pending`**</mark>
   * Ironclad <mark style="color:yellow;">**`pending`**</mark>
 
