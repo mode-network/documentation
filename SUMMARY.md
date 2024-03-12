@@ -54,6 +54,7 @@
 
 ## Tools
 
+* [🖥️ RPC](tools/rpc.md)
 * [🪶 Multisig wallets](tools/multisig-wallets.md)
 * [🔁 Bridges](tools/bridges.md)
 * [🚰 Testnet Faucets](tools/testnet-faucets.md)
