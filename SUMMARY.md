@@ -65,8 +65,7 @@
 ## Other Docs
 
 * [⌨️ Node Operators](other-docs/node-operators.md)
-* [🎯 Mode Points Design](other-docs/mode-points-design/README.md)
-  * [🪙 Airdrop Status](other-docs/mode-points-design/airdrop-status.md)
+* [🎯 Mode Points Design](other-docs/mode-points-design.md)
 * [🫂 Community dApps](other-docs/community-dapps.md)
 * [🔗 Official Links](other-docs/official-links.md)
 * [🤘 Branding Guidelines](other-docs/branding-guidelines.md)
