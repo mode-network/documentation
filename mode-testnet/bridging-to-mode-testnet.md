@@ -12,7 +12,7 @@ You can get this by visiting a Sepolia Testnet Faucet to get sent the Testnet ET
 
 We recommend using the Mode Bridge to deposit instantly to the Mode Testnet. You can do this by following the guide below:
 
-1. Visit the [**Mode Testnet Bridge**  ](https://bridge.mode.network/)
+1. Visit the [**Mode Testnet Bridge**](https://sepolia-bridge.mode.network/) &#x20;
 2. Connect your Metamask wallet to the Mode Bridge.&#x20;
 3. Open the network selection dropdown menu by clicking the dropdown button at the top of the extension and click on Sepolia Testnet.&#x20;
 4. Send Sepolia Testnet ETH to Mode Testnet using the Mode Bridge.&#x20;

@@ -1,4 +1,4 @@
-# ℹ Network Details
+# ℹ️ Network Details
 
 **Mode Sepolia Testnet**
 
@@ -9,5 +9,5 @@
 | Chain ID        | 919                                                                              |
 | Currency Symbol | ETH                                                                              |
 | Block Explorer  | [https://sepolia.explorer.mode.network/](https://sepolia.explorer.mode.network/) |
-| Bridge          | [https://bridge.mode.network/](https://bridge.mode.network/)                     |
+| Bridge          | [https://sepolia-bridge.mode.network/](https://sepolia-bridge.mode.network/)     |
 
