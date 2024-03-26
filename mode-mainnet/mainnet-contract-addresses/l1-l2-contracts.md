@@ -9,6 +9,7 @@ description: Ethereum and Mode Mainnet useful contract addresses
 | SFS Contract                      | [0x8680CEaBcb9b56913c519c069Add6Bc3494B7020](https://explorer.mode.network/address/0x8680CEaBcb9b56913c519c069Add6Bc3494B7020?tab=txs)      |
 | Pyth Oracle contract              | [0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)              |
 | Supra Pull Oracle contract        | [0x2FA6DbFe4291136Cf272E1A3294362b6651e8517](https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract) |
+| Redstone Oracles Price Feeds      | [0x7C1DAAE7BB0688C9bfE3A918A4224041c7177256](https://explorer.mode.network/address/0x7C1DAAE7BB0688C9bfE3A918A4224041c7177256?tab=txs)      |
 | OptimismMintableERC20FactoryProxy | 0x69216395A62dFb243C05EF4F1C27AF8655096a95                                                                                                  |
 | OptimismMintableERC20Factory      | 0xc0c6A811BBf07FA01b946F1C46a9A94c2eE8C73E                                                                                                  |
 | SystemConfig                      | 0x951754B08C52b2aC5d5a2aF1D52C2D12aED5Bcaf                                                                                                  |
