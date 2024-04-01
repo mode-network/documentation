@@ -50,6 +50,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import { ethers } from "ethers";
 
+function App() {
  return (
    <div className="app">
      <h1>hello</h1>
@@ -100,6 +101,7 @@ const abi = [ <a data-footnote-ref href="#user-content-fn-1">YOUR ABI JSON CODE 
  const [provider, setProvider] = useState(null);
  const [status, setStatus] = useState("");
 
+function App() {
  return (
    &#x3C;div className="app">
      &#x3C;h1>hello&#x3C;/h1>
