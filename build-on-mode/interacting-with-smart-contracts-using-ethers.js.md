@@ -50,6 +50,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import { ethers } from "ethers";
 
+const App = () => {
  return (
    <div className="app">
      <h1>hello</h1>
@@ -92,6 +93,7 @@ import { ethers } from "ethers";
 const contractAddress = "0x7215c347458DB86531f3c4Cae1c60c0B93e435Ce";
 const abi = [ <a data-footnote-ref href="#user-content-fn-1">YOUR ABI JSON CODE HERE</a> ] 
 
+const App = () => {
  const [currentAd, setCurrentAd] = useState("Hello World!");
  const [currentBid, setCurrentBid] = useState(0);
  const [advertiser, setAdvertiser] = useState("0x0");
