@@ -2,15 +2,15 @@
 description: How to bridge ETH to Mode
 ---
 
-# ➡ Bridge to Mode
+# ➡️ Bridge to Mode
 
 {% hint style="warning" %}
 Withdrawal of funds from Mode will take up to 7 days due to Mode's optimistic rollup nature. Keep this in mind before Bridging.
 {% endhint %}
 
-To bridge funds to Mode you can use our [Bridge](https://app.mode.network/) and follow these steps:
+To bridge funds to Mode you can use our [Bridge](https://bridge.mode.network) and follow these steps:
 
-1. Visit the [Mode Bridge](https://app.mode.network/)
+1. Visit the [Mode Bridge](https://bridge.mode.network)
 2. Connect your wallet to the Mode Bridge.&#x20;
 3. Make sure you select the assets that you want to bridge and that the "From" chain is Ethereum.
 4. Put in the amount of ETH that you want to bridge.&#x20;
