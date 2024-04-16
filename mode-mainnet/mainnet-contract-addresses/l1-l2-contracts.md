@@ -27,3 +27,5 @@ description: Ethereum and Mode Mainnet useful contract addresses
 | AddressManager                    | 0x50eF494573f28Cad6B64C31b7a00Cdaa48306e15                                                                                                  |
 | L1StandardBridgeProxy             | 0x735aDBbE72226BD52e818E7181953f42E3b0FF21                                                                                                  |
 | L2CrossDomainMessenger            | 0xC0d3c0d3c0D3c0D3C0d3C0D3C0D3c0d3c0d30007                                                                                                  |
+| L2StandardBridge                  | [0x4200000000000000000000000000000000000010](https://explorer.mode.network/address/0x4200000000000000000000000000000000000010)              |
+
