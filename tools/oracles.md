@@ -1,12 +1,15 @@
-# 🧙♂ Oracles
+# 🧙‍♂️ Oracles
 
 ## [Pyth](https://pyth.network/)
 
 Pyth is an oracle for real-time blockchain data such as price feeds and historical market data.
 
-Pyth Oracle address on Mode dev Mainnet:\
+Pyth Oracle address on Mode Mainnet:\
 [https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)
 
+Price feed on Testnet:\
+[https://sepolia.explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://sepolia.explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)\
+\
 For further details, please refer to [Pyth documentation](https://docs.pyth.network/documentation).
 
 ## [Supra](https://supraoracles.com/)
