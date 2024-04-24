@@ -1,8 +1,16 @@
-# 🗂 Data Indexers
+# 🗂️ Data Indexers
 
 ## [Goldsky](https://goldsky.com/)
 
-Goldsky offers two core self-serve products that can be used independently or in conjunction to power your data stack. Subgraphs that have flexible indexing with typescript, with support for webhooks and more. Then also Mirror which lets you get live blockchain data directly into your database or message queues with a single yaml config.
+Goldsky offers two core self-serve products that can be used independently or in conjunction to power your data stack. Subgraphs that have flexible indexing with typescript, with support for webhooks and more. Then also Mirror which lets you get live blockchain data directly into your database or message queues with a single yaml config.\
+\
+Deploy a subgraph: [https://docs.goldsky.com/subgraphs/deploying-subgraphs](https://docs.goldsky.com/subgraphs/deploying-subgraphs)
+
+## [The Graph](https://thegraph.com/)
+
+The Graph is a decentralized protocol for indexing and querying blockchain data. The Graph makes it possible to query data that is difficult to query directly.
+
+Deploy a subgraph: [https://thegraph.com/studio/](https://thegraph.com/studio/)
 
 ## [Covalent](https://www.covalenthq.com/docs/networks/mode-testnet/)
 
@@ -10,4 +18,4 @@ Covalent is a blockchain data service that offers access to both current and his
 
 Covalent holds an archival version of every blockchain it supports. This encompasses details of every transaction, balance, log event, and digital asset from the start of that blockchain. You can retrieve Mode data through their [API](https://www.covalenthq.com/docs/networks/mode-testnet/).
 
-For further details, please refer to their [docs](https://www.covalenthq.com/docs/).
+For further details, please refer to [https://www.covalenthq.com/docs/networks/mode/](https://www.covalenthq.com/docs/networks/mode/)
