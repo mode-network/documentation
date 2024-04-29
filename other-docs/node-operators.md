@@ -1,7 +1,21 @@
 # ⌨️ Node Operators
 
+### Running the node
+
 If you want to run a node for Mode please follow these instructions:\
 [https://github.com/mode-network/rollup-node](https://github.com/mode-network/rollup-node)
+
+### Snapshots
+
+Snapshots will help you save time while synching your node to Mode.
+
+* Mainnet
+
+[https://storage.cloud.google.com/conduit-networks-snapshots/mode/mainnet/latest.tar.gz](https://storage.cloud.google.com/conduit-networks-snapshots/mode/mainnet/latest.tar.gz)
+
+* Testnet
+
+[https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz](https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz)
 
 {% hint style="warning" %}
 * The Ecotone upgrade for OP Sepolia activated at **1708534800 Wed Feb 21 17:00:00 UTC 2024**.

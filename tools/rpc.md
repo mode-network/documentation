@@ -1,5 +1,9 @@
 # 🖥️ RPC
 
+{% hint style="success" %}
+If your project needs better performance you can try running your own node. Check all the information here: [node-operators.md](../other-docs/node-operators.md "mention")
+{% endhint %}
+
 #### Public RPC
 
 Our public RPC is a full archive node and should be enough for most use cases:\
@@ -13,7 +17,7 @@ RPC Endpoint: [https://blastapi.io/chains/mode](https://blastapi.io/chains/mode)
 
 #### 1RPC
 
-Automata now supports Mode mainnet via their 1RPC, this introduces an extra layer of security by protecting some metadata from being shared to interact with RPCs in a more private way.  You can learn more about 1RPC [here](https://docs.1rpc.io/overview/about-1rpc).
+Automata now supports Mode mainnet via their 1RPC, this introduces an extra layer of security by protecting some metadata from being shared to interact with RPCs in a more private way. You can learn more about 1RPC [here](https://docs.1rpc.io/overview/about-1rpc).
 
 RPC Endpoint: [https://1rpc.io/mode](https://1rpc.io/mode)
 
