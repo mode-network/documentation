@@ -10,10 +10,6 @@ description: Mode points calculations
 
 Mode Points serve as a metric to acknowledge and reward early participants in the Mode ecosystem. These points encapsulate a range of activities, including assets on Mode, interacting with applications within the ecosystem, historical engagement across other blockchain networks, and more.
 
-$$
-\begin{align*} P_u = m_{RP}\cdot \alpha RP_{u,t} + \int_{0}^{T} (m_{AoM} \cdot AoM_t + m_{TVL} \cdot TVL_t + m_{Fees} \cdot Fees_t) \; dt + P_{V} \end{align*}
-$$
-
 The points formula can be extracted into three terms:
 
 $$P_u = P_{R} + P_{E} + P_{V}$$

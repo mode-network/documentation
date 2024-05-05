@@ -29,6 +29,13 @@
 * [🏡 Testnet Contract Addresses](mode-testnet/testnet-contract-addresses.md)
 * [🌉 Bridging to Mode Testnet](mode-testnet/bridging-to-mode-testnet.md)
 
+## $MODE&#x20;
+
+* [1️⃣ Season 1](usdmode/quick-start.md)
+* [2️⃣ Season 2](usdmode/quick-start-1.md)
+* [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
+* [🎯 Mode Points Design](usdmode/mode-points-design.md)
+
 ## Build on Mode
 
 * [Interacting with Smart Contracts using ethers.js](build-on-mode/interacting-with-smart-contracts-using-ethers.js.md)
@@ -61,11 +68,14 @@
 * [🕵️ Block Explorers](tools/block-explorers.md)
 * [🗂️ Data Indexers](tools/data-indexers.md)
 * [🧙‍♂️ Oracles](tools/oracles.md)
+* [⌨️ Node Operators](tools/node-operators.md)
+
+## Security
+
+* [🔓 Mode L2 Security Model](security/quick-start.md)
 
 ## Other Docs
 
-* [⌨️ Node Operators](other-docs/node-operators.md)
-* [🎯 Mode Points Design](other-docs/mode-points-design.md)
 * [🫂 Community dApps](other-docs/community-dapps.md)
 * [🔗 Official Links](other-docs/official-links.md)
 * [🤘 Branding Guidelines](other-docs/branding-guidelines.md)
