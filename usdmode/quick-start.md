@@ -1,5 +1,10 @@
 # 1️⃣ Season 1
 
+{% hint style="info" %}
+Check your Season 1 points here - [MODE Season 1 Points](https://docs.google.com/spreadsheets/d/1zW1j6KTjx-hP9MhXlfS8xg46Ul8QzywcEf4S8u-ktfg)\
+Points will be converted to MODE and claimable on the 7th May
+{% endhint %}
+
 Airdrop Season 1 will conclude on the 5th May. Airdrop 2 begin on the 5th May 2024 and run until 6th September 2024.&#x20;
 
 User points from Airdrop 1 will be converted to MODE tokens and claimable on the 7th May at approximately 11.00am UTC at [claim.mode.network](https://claim.mode.network/)
