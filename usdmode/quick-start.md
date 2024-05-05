@@ -1,8 +1,8 @@
 # 1️⃣ Season 1
 
-Airdrop 1 will conclude on the 5th May. Airdrop 2 begin on the 5th May 2024 and run until 6th September 2024.&#x20;
+Airdrop Season 1 will conclude on the 5th May. Airdrop 2 begin on the 5th May 2024 and run until 6th September 2024.&#x20;
 
-Any user who moves assets off Mode may not receive their full airdrop on the 7th May – snapshots are ongoing. User points from Airdrop 1 will be converted to MODE tokens and claimable on the 7th May at approximately 11.00am UTC at [claim.mode.network](https://claim.mode.network/)
+User points from Airdrop 1 will be converted to MODE tokens and claimable on the 7th May at approximately 11.00am UTC at [claim.mode.network](https://claim.mode.network/)
 
 The top 2,000 wallets by points will receive 50% MODE at launch and 50% MODE after 90 days. User assets must stay in the ecosystem through this period to earn the second tranche of tokens and this will be assessed on a pro-rata basis. For example if a vested user exits after 45 days they will receive 50% of the second tranche of tokens and 50% will be forfeited. Any tokens forfeited will be reallocated to other participants in Airdrop 2.
 
