@@ -10,7 +10,6 @@
   * [Withdrawal](introduction/sequencer-fee-sharing/withdrawal.md)
   * [FAQ](introduction/sequencer-fee-sharing/faq.md)
 * [✅ Dev Onboarding Checklist](introduction/dev-onboarding-checklist.md)
-* [🕐 Copy of Quick start](introduction/quick-start-1.md)
 
 ## $MODE&#x20;
 
