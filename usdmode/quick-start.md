@@ -26,6 +26,11 @@ You will be able to claim MODE from [claim.mode.network](https://claim.mode.netw
 
 _Please be vigilant and do not click on any links from 3rd parties. The official link will be posted on the Mode Dashboard._
 
+**Is there a minimum amount of points needed to claim an airdrop?**&#x20;
+
+* The minimum points needed to qualify is 250 points
+* Any user that had pre-check points but did not bridge to Mode did no meet the minimum requirements
+
 **How long do I have to claim my MODE tokens?**
 
 Users have 30 days to claim MODE tokens from the initial claim date.\

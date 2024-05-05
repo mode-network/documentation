@@ -1,5 +1,11 @@
 # 2️⃣ Season 2
 
+Airdrop Season 1 will conclude on the 5th May. Airdrop 2 begin on the 5th May 2024 and run until 6th September 2024.&#x20;
+
+{% hint style="info" %}
+Season 2 Airdrop is live, you can check your status on your [Mode Dashboard here. ](https://app.mode.network/early/)
+{% endhint %}
+
 **Summary:**&#x20;
 
 * Starts on May 5th and runs until September 6th 2024
@@ -8,8 +14,6 @@
 * New applications, including Velodrome, Balancer, Ethena and many more
 * MODE staking will be available to earn points multipliers and ecosystem airdrops&#x20;
 
-\
-\
 Airdrop Season 2 is designed to reward users and developers that continue to grow the Mode ecosystem.&#x20;
 
 Airdrop 2 has been allocated **500,000,000 MODE tokens (5% of MODE total supply),** in addition up to 1,000,000 OP tokens will be available through various incentive campaigns.
