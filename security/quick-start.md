@@ -14,6 +14,8 @@ This multisig can be used to upgrade core Mode L2 smart contracts **without upgr
 
 ### Bugs and Unknowns <a href="#bugs-and-unknowns" id="bugs-and-unknowns"></a>
 
-Please also keep in mind that just like any other system, **the Optimism codebase may contain unknown bugs** that could lead to the loss of some or all of the ETH or tokens held within the system. The OP Stack has been audited [on many occasions(opens in a new tab)](https://github.com/ethereum-optimism/optimism/tree/v1.1.4/technical-documents/security-reviews), but **audits are not a stamp of approval** and **a completed audit does not mean that the audited codebase is free of bugs.**
+The OP Stack has been audited [on many occasions(opens in a new tab)](https://github.com/ethereum-optimism/optimism/tree/v1.1.4/technical-documents/security-reviews), but **audits are not a stamp of approval** and **a completed audit does not mean that the audited codebase is free of bugs.**
 
-It's important to understand that using Mode inherently exposes you to the risk of bugs within the  codebase, and that you use Mode Mainnet at your own risk.
+It's important to understand that using Mode inherently exposes you to the risk of bugs within the  codebase, and that you use Mode Mainnet at your own risk.\
+\
+For more information on the OP Stack please visit&#x20;

@@ -73,6 +73,7 @@
 ## Security
 
 * [🔓 Mode L2 Security Model](security/quick-start.md)
+* [⛑️ Optimism Bug Bounty](security/quick-start-1.md)
 
 ## Other Docs
 
