@@ -1,50 +1,15 @@
-# 🟡 MODE Tokenonomics
+# 2️⃣ Season 2
 
-Mode’s tokenomics have been designed to decentralize Mode and reward users and developers that contribute to growing the Mode ecosystem.
+### Mode Airdrop 2 - 500,000,000 MODE <a href="#heading-mode-airdrop-2---500000000-mode" id="heading-mode-airdrop-2---500000000-mode"></a>
 
-**MODE Token**
+Airdrop 2 is designed to reward users and developers that continue to grow the Mode ecosystem. Airdrop 2 has been allocated a maximum of 500,000,000 MODE tokens (5% of MODE total supply), in addition up to 1,000,000 OP tokens will be available through various incentive campaigns.
 
-Ticker: $MODE \
-Total Supply: 10,000,000,000 \
-Initial Circulating Supply: 1,300,000,000\
+This campaign will align incentives with growing Mode into a leading L2 network and DeFi Hub for the Optimism Superchain and Ethereum ecosystem.
 
-
-**MODE Token Utility**
-
-MODE will be used to govern and grow the Mode protocol and ecosystem through:
-
-* Mode Governance
-* User and Developer Campaigns
-* DeFi Integration Grants
-* Community Grants
-* Growing the Mode ecosystem
-
+Airdrop 2 will add incentives to new product launches from leading DeFi protocols and Mode native ecosystem applications. \
 \
-**Tokenonomics**
+Mode users will automatically start earning points for Airdrop 2 on the 5th May and can track progress on the Mode Dashboard at [https://app.mode.network/](https://app.mode.network/)&#x20;
 
-**User and Developer Airdrops:** 35%
+Further details on Airdrop 2 and the new partners will be shared on [https://www.mode.network/about-the-airdrop](https://www.mode.network/about-the-airdrop)
 
-Allocated to users and developers that contribute to growing the Mode ecosystem.
-
-* 5.5% of the supply has been allocated to Mode users and developers for Airdrop 1
-* 5% of the supply has been allocated to Mode users and developers for Airdrop 2
-* The remaining will be allocated to future airdrops
-
-**Investors:** 19%
-
-Mode investors from past and future investment rounds.
-
-* Investor allocations are subject to 12-month cliff from TGE followed by a 24-month linear vest
-
-**Core Contributors:** 19%
-
-Mode core contributors that contribute to developing the Mode ecosystem
-
-* Core contributor allocations are subject to 12-month cliff from TGE (7th May) followed by a 24-month linear vest
-
-**Foundation and Onchain Treasury:** 27%
-
-* The Foundation allocation will be used to fund initiatives to grow MODE network
-* The Onchain Smart Treasury will be allocated MODE tokens by the Foundation on an ongoing basis decided by governance. The Onchain Smart Treasury will stream tokens to applications to be used as user incentives.
-
-\
+Let’s continue to grow Mode into a leading ecosystem together!

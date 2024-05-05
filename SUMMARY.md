@@ -10,6 +10,14 @@
   * [Withdrawal](introduction/sequencer-fee-sharing/withdrawal.md)
   * [FAQ](introduction/sequencer-fee-sharing/faq.md)
 * [✅ Dev Onboarding Checklist](introduction/dev-onboarding-checklist.md)
+* [🕐 Copy of Quick start](introduction/quick-start-1.md)
+
+## $MODE&#x20;
+
+* [🟡 MODE Tokenonomics](usdmode/quick-start.md)
+* [1️⃣ Season 1](usdmode/quick-start-1.md)
+* [2️⃣ Season 2](usdmode/quick-start-2.md)
+* [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
 ## Mode Mainnet
 
@@ -28,13 +36,6 @@
 * [🖥️ Using Mode Testnet](mode-testnet/using-mode-testnet.md)
 * [🏡 Testnet Contract Addresses](mode-testnet/testnet-contract-addresses.md)
 * [🌉 Bridging to Mode Testnet](mode-testnet/bridging-to-mode-testnet.md)
-
-## $MODE&#x20;
-
-* [1️⃣ Season 1](usdmode/quick-start.md)
-* [2️⃣ Season 2](usdmode/quick-start-1.md)
-* [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
-* [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
 ## Build on Mode
 
