@@ -14,9 +14,9 @@
 
 ## $MODE&#x20;
 
-* [🟡 MODE Tokenonomics](usdmode/quick-start.md)
-* [1️⃣ Season 1](usdmode/quick-start-1.md)
-* [2️⃣ Season 2](usdmode/quick-start-2.md)
+* [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
+* [1️⃣ Season 1](usdmode/quick-start.md)
+* [2️⃣ Season 2](usdmode/quick-start-1.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
 ## Mode Mainnet
