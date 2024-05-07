@@ -2,7 +2,11 @@
 description: Ethereum and Mode Mainnet useful contract addresses
 ---
 
-# L1/L2 Contracts
+# L1/L2 Mainnet Contracts
+
+{% hint style="warning" %}
+These are Mainnet contract addresses. If you want to add a missing one please submit a PR to [this repo](../../) with your changes.&#x20;
+{% endhint %}
 
 | Name                              | Address                                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |

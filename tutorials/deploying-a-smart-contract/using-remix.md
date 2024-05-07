@@ -14,7 +14,7 @@ This guide assumes you have got Sepolia ETH and bridged to the Mode Testnet Netw
 
 ## 1. Deploy using Remix
 
-First of all you will need to have Mode network added to your Metamask. Follow [using-mode-testnet.md](../../mode-testnet/using-mode-testnet.md "mention") for the step-by-step on how to add Mode testnet to Metamask.
+First of all you will need to have Mode network added to your Metamask. Follow [Broken link](broken-reference "mention") for the step-by-step on how to add Mode testnet to Metamask.
 
 We are ready to get started!
 

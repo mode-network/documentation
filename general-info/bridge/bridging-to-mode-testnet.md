@@ -2,15 +2,18 @@
 description: How to bridge assets to Mode Testnet
 ---
 
-# 🌉 Bridging to Mode Testnet
+# 🏗️ Bridging to Testnet
 
-Mode is currently available on the Sepolia Mode Testnet. To use Mode you need Sepolia Testnet ETH. \
+{% hint style="info" %}
+There are 2 ways to get Sepolia ETH on Mode Sepolia Testnet:\
 \
-You can get this by visiting a Sepolia Testnet Faucet to get sent the Testnet ETH which can then be bridged to Mode Testnet via the Mode Bridge. \
-\
-**Deposit via the Mode Bridge**&#x20;
+1\. Bridging Sepolia ETH from Ethereum Sepolia Testnet to Mode's Sepolia Testnet.\
+2\. Using a Mode Sepolia ETH faucet. [testnet-faucets.md](../../tools/testnet-faucets.md "mention")
+{% endhint %}
 
-We recommend using the Mode Bridge to deposit instantly to the Mode Testnet. You can do this by following the guide below:
+## Depositing Sepolia ETH
+
+You can instantly deposit Testnet ETH by following the following steps:
 
 1. Visit the [**Mode Testnet Bridge**](https://sepolia-bridge.mode.network/) &#x20;
 2. Connect your Metamask wallet to the Mode Bridge.&#x20;

@@ -11,7 +11,7 @@ Before you continue with this tutorial you should:
 
 * Create a [thirdweb](https://thirdweb.com/) account.
 * Have a basic understanding of [Solidity](https://soliditylang.org/).
-* [Bridge](https://docs.mode.network/mode-testnet/bridging-to-mode-testnet) Sepolia Eth with Mode Network [bridging-to-mode-testnet.md](../../../mode-testnet/bridging-to-mode-testnet.md "mention")
+* [Bridge](https://docs.mode.network/mode-testnet/bridging-to-mode-testnet) Sepolia Eth with Mode Network [bridging-to-mode-testnet.md](../../../general-info/bridge/bridging-to-mode-testnet.md "mention")
 * Have [Node](https://nodejs.org/en) and [Yarn](https://yarnpkg.com/) installed with a recent version.
 
 {% hint style="success" %}

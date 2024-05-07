@@ -10,7 +10,7 @@ Follow [this tutorial](using-foundry.md) to learn how to deploy a smart contract
 
 ## [Hardhat](https://hardhat.org/)
 
-Hardhat is a framework for developing smart contracts. You can use Hardhat to deploy to Mode as any other Ethereum - see the network information [here](../../mode-testnet/network-details.md)[.](../../mode-testnet/network-details.md)
+Hardhat is a framework for developing smart contracts. You can use Hardhat to deploy to Mode as any other Ethereum - see the network information [here](broken-reference)[.](broken-reference)
 
 ## [Thirdweb CLI](https://portal.thirdweb.com/cli)
 

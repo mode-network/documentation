@@ -14,9 +14,9 @@ If you want a quickstart and just get to the code, go to [this repository](https
 
 ## Prerequisites
 
-* Add MODE Testnet to your metamask using the network info from here:[network-details.md](../mode-testnet/network-details.md "mention")
+* Add MODE Testnet to your metamask using the network info from here:[Broken link](broken-reference "mention")
 * Get test ETH sepolia here: [testnet-faucets.md](../tools/testnet-faucets.md "mention")
-* Bridge to MODE testnet here: [bridging-to-mode-testnet.md](../mode-testnet/bridging-to-mode-testnet.md "mention")
+* Bridge to MODE testnet here: [bridging-to-mode-testnet.md](../general-info/bridge/bridging-to-mode-testnet.md "mention")
 * Have [Node and NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your PC
 * Have a basic understanding of React.js and how blockchain works
 
@@ -24,7 +24,7 @@ If you want a quickstart and just get to the code, go to [this repository](https
 
 We've crafted a simple smart contract named BidBoard for this tutorial. The contract allows advertisers to bid for space on an advertising board. The code and deployment details are available on this [GitHub](https://github.com/joshuanwankwo/mode\_testnet) repository and [Mode Testnet Explorer](https://sepolia.explorer.mode.network/address/0x7215c347458DB86531f3c4Cae1c60c0B93e435Ce). You can also write your own custom smart contract and deploy it to Mode by following [deploying-a-smart-contract](deploying-a-smart-contract/ "mention").
 
-## Getting Started&#x20;
+## Getting Started
 
 Now that we have the prerequisites, the first thing we need to do is to open our terminal, navigate into the folder where you want your project to be, and create a simple react app by running the following command
 
@@ -65,7 +65,7 @@ export default App;
 In this file are importing <mark style="color:orange;">`useState`</mark> and <mark style="color:orange;">`useEffect`</mark> which we'll be needing later in this tutorial, we’re also importing <mark style="color:orange;">`ethers`</mark> to enable us to make a connection to our smart contract.
 
 \
-The next thing we need to do is to declare our contract address and ABI file, there are different ways get the contract ABI but if you deployed you smart contract using foundry, you can find your ABI check the following directory:&#x20;
+The next thing we need to do is to declare our contract address and ABI file, there are different ways get the contract ABI but if you deployed you smart contract using foundry, you can find your ABI check the following directory:
 
 ./out/MyContract.sol/MyContract.json.
 
@@ -86,12 +86,14 @@ On the frontend side of things, we’re going to update our <mark style="color:y
 
 Your <mark style="color:yellow;">`App.js`</mark> should look like:
 
-<pre class="language-jsx" data-title="App.js" data-line-numbers><code class="lang-jsx">import React, { useState, useEffect } from "react";
+{% code title="App.js" lineNumbers="true" %}
+```jsx
+import React, { useState, useEffect } from "react";
 import "./App.css";
 import { ethers } from "ethers";
 
 const contractAddress = "0x7215c347458DB86531f3c4Cae1c60c0B93e435Ce";
-const abi = [ <a data-footnote-ref href="#user-content-fn-1">YOUR ABI JSON CODE HERE</a> ] 
+const abi = [ YOUR ABI JSON CODE HERE ] 
 
 const App = () => {
  const [currentAd, setCurrentAd] = useState("Hello World!");
@@ -103,14 +105,15 @@ const App = () => {
  const [status, setStatus] = useState("");
 
  return (
-   &#x3C;div className="app">
-     &#x3C;h1>hello&#x3C;/h1>
-   &#x3C;/div>
+   <div className="app">
+     <h1>hello</h1>
+   </div>
  );
 };
 
 export default App;
-</code></pre>
+```
+{% endcode %}
 
 We added the contract address, the abi, and a few states that we will need for our dApp to work. Don't worry about all these React states, they are particular for this app so you don't need to fully understand them. Please remember to paste you ABI in your App.js file.
 
@@ -190,7 +193,7 @@ Now we’re able to fetch the current state of our contract we also need to be a
  };
 ```
 
-In summary, the <mark style="color:blue;">`submitBid`</mark> function allows users to submit a new bid to the smart contract. It initializes a contract instance and a signer, creates a transaction to update the advertisement message with the new bid, and waits for the transaction to be confirmed on the blockchain.&#x20;
+In summary, the <mark style="color:blue;">`submitBid`</mark> function allows users to submit a new bid to the smart contract. It initializes a contract instance and a signer, creates a transaction to update the advertisement message with the new bid, and waits for the transaction to be confirmed on the blockchain.
 
 If any errors occur during this process, they are caught and logged, and the user is informed about the error through a status message.
 
@@ -267,7 +270,7 @@ useEffect(() => {
 
 This above code sets up an event listener using the useEffect hook to listen for the `MessageUpdated` event emitted by the smart contract whenever the advertisement message is updated.
 
-&#x20;When such an event is detected, it updates the state variables `currentAd`, `currentBid`, and `advertiser` with the new message, advertiser, and bid amount, respectively. This ensures that the displayed data on the web app remains synchronized with the blockchain.
+When such an event is detected, it updates the state variables `currentAd`, `currentBid`, and `advertiser` with the new message, advertiser, and bid amount, respectively. This ensures that the displayed data on the web app remains synchronized with the blockchain.
 
 Lastly, it provides a cleanup function to remove the event listener, preventing potential memory leaks when the component is unmounted or re-rendered.
 
@@ -334,9 +337,9 @@ That’s it, we’re done with the on-chain functionalities, now let’s build U
 
 ## Running the project
 
-To run the project open your terminal and run the following command in the project's folder:&#x20;
+To run the project open your terminal and run the following command in the project's folder:
 
-&#x20;`npm start`
+`npm start`
 
 Your console should look similar to this:
 
@@ -346,11 +349,8 @@ Open the URL shown in your browser and you are good to try your dApp!
 
 ## Conclusion
 
-This tutorial provided a hands-on journey through creating a web application and connecting it to a smart contract deployed on Mode Testnet using ether.js.&#x20;
+This tutorial provided a hands-on journey through creating a web application and connecting it to a smart contract deployed on Mode Testnet using ether.js.
 
-Through this project, we delved into essential steps from setting up the development environment to real-time tracking of smart contract events.  You can clone the [code](https://github.com/joshuanwankwo/mode\_testnet) and play around with it!\
-
+Through this project, we delved into essential steps from setting up the development environment to real-time tracking of smart contract events. You can clone the [code](https://github.com/joshuanwankwo/mode\_testnet) and play around with it!\\
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-[^1]: 

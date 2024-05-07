@@ -4,4 +4,4 @@ Multisig wallets are wallets that allow multiple parties to control and secure a
 \
 As part of the Superchain, the team of Protofire has deployed Safe (ex Gnosis) on Mode:\
 \
-[Superchain Safe](https://safe.optimism.io/welcome)
+[https://safe.optimism.io/welcome](https://safe.optimism.io/welcome)
