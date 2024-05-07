@@ -1,0 +1,48 @@
+---
+description: In this guide we'll explain everything about staking and un-staking $MODE
+---
+
+# 🌱 Staking
+
+Staking is enabled for $MODE giving aditional benefits for the current Season 2.\
+\
+There will be points boosters for users staking their $MODE.
+
+## Criteria to get the booster
+
+1. Users need to stake enough $MODE to equal either 25% or 50% of their entire portfolio valued in USD. All assets from the wallet on Mode Mainnet are taken into account.\
+   \
+   Example:\
+   If you are holding 100 USDC you will have to stake 25$ worth of $MODE or 50$ worth of $MODE in order to get the booster.\
+   &#x20;
+2. If the ratio drops (due to price action or asset reallocation), there is a day of grace period for users to stake more $MODE to get their ratio balance back. \
+   &#x20;
+3. When users are eligible for a points boost, they earn either 1.25x or 1.5x for all points they earn on any asset or position during that time. **This is a global multiplier on all other activities.**\
+   \
+   You earn **1.25x** if staked $MODE is 25% or more of your portfolio.\
+   You earn **1.50x** if staked $MODE is 50% or more of your portfolio.\
+   \
+   If your staked $MODE falls below 25% of your total portfolio, then you will no longer be eligible for the booster until your $MODE staking goes back over 25%. You have a 24 hour grace period before you lose the booster. Same thing happens with 50% and the 1.50x booster.\
+
+4. Locked tokens in liquidity pools are not counted in the protocols for the booster yet. However, these LP positions do count for points and incentives. \
+
+5. Eligibility for the booster is calculated daily.&#x20;
+
+{% hint style="warning" %}
+There is an unstaking waiting period (cooldown) of 7 days. Please be mindful of this when staking your tokens.
+{% endhint %}
+
+## Stake & unstake
+
+* The user can stake as many tokens as they have in their wallet, and unstake as many tokens as they have staked.&#x20;
+* Tokens will be available to withdraw 7 days after unstaking. Unstaking more tokens resets the cooldown period. The cooldown period resets if you unstake again.\
+  \
+  Example:\
+  \
+  You have 20 staked tokens. You unstake 10 tokens on day 1. The withdrawal period starts counting.\
+  \
+  After waiting for 3 days, you decide to unstake the remaining 10 tokens. Now the withdrawal period resets.\
+  \
+  You now have to wait 7 days to withdraw the total 20 $MODE.\
+
+* During the unstaking cooldown period, you will not be able to manage or move these tokens. Tokens can be withdrawn and be managed after the cooldown period.

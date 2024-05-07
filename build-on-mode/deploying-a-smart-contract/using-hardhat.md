@@ -9,7 +9,7 @@ This tutorial will guide you through the process of deploying a smart contract o
 #### Prerequisites
 
 * **Node.js and npm:** Ensure both are installed. [Download here](https://nodejs.org/).
-* **Ethereum Wallet:** A private key for the Mode Testnet that has testnet ETH. You can follow [bridging-to-mode-testnet.md](../../general-info/bridge/bridging-to-mode-testnet.md "mention") to get some or go to [testnet-faucets.md](../../tools/testnet-faucets.md "mention"). We recommend using a new wallet without real funds in case the PK gets compromised.
+* **Ethereum Wallet:** A private key for the Mode Testnet that has testnet ETH. You can follow [bridging-to-mode-testnet.md](../../mode-testnet/bridging-to-mode-testnet.md "mention") to get some or go to [testnet-faucets.md](../../tools/testnet-faucets.md "mention"). We recommend using a new wallet without real funds in case the PK gets compromised.
 * **Solidity and CLI knowledge:** A little knowledge is always helpful to follow along but it's not mandatory!
 
 ## What you'll accomplish

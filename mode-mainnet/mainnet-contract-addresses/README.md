@@ -2,7 +2,7 @@
 description: Addresses to the main contract addresses
 ---
 
-# 🏡 Mainnet Contract Addresses
+# 🏡 Contract Addresses
 
 In this section you will find useful contract addresses you may need while developing on Mode. \
 \

@@ -15,7 +15,7 @@ Given that MODE is built on the OP Stack and is EVM-compatible, you can easily p
 
 Even if you need to do these 3 steps, it won’t take more than 10 minutes to set up:
 
-* Have some ETH on Mode Testnet Network. You can follow our guide on [how to bridge](../../general-info/bridge/bridging-to-mode-testnet.md). Or use [this faucet](https://faucet.modedomains.xyz/) to claim some ETH on Mode.
+* Have some ETH on Mode Testnet Network. You can follow our guide on [how to bridge](../../mode-testnet/bridging-to-mode-testnet.md). Or use [this faucet](https://faucet.modedomains.xyz/) to claim some ETH on Mode.
 * Rust must be installed on your computer. If it's not, [follow this guide](https://doc.rust-lang.org/book/ch01-01-installation.html).
 * Foundry must be installed on your computer. If it’s not, [follow this guide](https://book.getfoundry.sh/getting-started/installation).
 

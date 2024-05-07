@@ -2,7 +2,7 @@
 description: Bridging ETH from Mode to Ethereum
 ---
 
-# ⬅ Bridge from Mode
+# ⬅️ Bridge from Mode
 
 Mode's bridge is a fork of Optimism's canonical bridge. With Optimism's Bedrock upgrade, a two-step withdrawal process designed to enhance the safety and integrity of cross-chain transactions was introduced.
 

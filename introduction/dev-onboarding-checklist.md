@@ -14,23 +14,23 @@ Follow [this guide](https://mode.hashnode.dev/get-developer-role) on how to get 
 
 ### Mode Technical Roadmap
 
-* [ ] Add Mode Mainnet and Testnet to your wallet - [using-mode.md](../general-info/using-mode.md "mention")
+* [ ] Add Mode Mainnet and Testnet to your wallet - [using-mode-mainnet.md](../mode-mainnet/using-mode-mainnet.md "mention")
   * [ ] Mainnet Added
   * [ ] Testnet Added\
 
 * [ ] Read about the SFS
-  * [ ] [sfs-sequencer-fee-sharing](../tutorials/sfs-sequencer-fee-sharing/ "mention")
-  * [ ] [faq.md](../tutorials/sfs-sequencer-fee-sharing/faq.md "mention")\
+  * [ ] [sfs-sequencer-fee-sharing](../build-on-mode/sfs-sequencer-fee-sharing/ "mention")
+  * [ ] [faq.md](sequencer-fee-sharing/faq.md "mention")\
 
 *   [ ] Deploy a smart contract on Mode testnet (Extra: Register this contract on the SFS)
 
     * [ ] [quick-start.md](quick-start.md "mention")
-    * [ ] [deploying-a-smart-contract](../tutorials/deploying-a-smart-contract/ "mention")
-    * [ ] [register-a-smart-contract](../tutorials/sfs-sequencer-fee-sharing/register-a-smart-contract/ "mention")
-    * [ ] [verifying-your-smart-contract](../tutorials/verifying-your-smart-contract/ "mention")
+    * [ ] [deploying-a-smart-contract](../build-on-mode/deploying-a-smart-contract/ "mention")
+    * [ ] [register-a-smart-contract](../build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/ "mention")
+    * [ ] [verifying-your-smart-contract](../build-on-mode/verifying-your-smart-contract/ "mention")
 
 
-* [ ] Assign more than one contract to the same SFS NFT [assign-a-smart-contract](../tutorials/sfs-sequencer-fee-sharing/assign-a-smart-contract/ "mention")
+* [ ] Assign more than one contract to the same SFS NFT [assign-a-smart-contract](../build-on-mode/sfs-sequencer-fee-sharing/assign-a-smart-contract/ "mention")
 
 ### Socials
 

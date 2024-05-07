@@ -49,4 +49,4 @@ Mode core contributors that contribute to developing the Mode ecosystem
 * The Foundation allocation will be used to fund initiatives to grow MODE network
 * The Onchain Smart Treasury will be allocated MODE tokens by the Foundation on an ongoing basis decided by governance. The Onchain Smart Treasury will stream tokens to applications to be used as user incentives.
 
-\
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>

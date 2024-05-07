@@ -16,7 +16,7 @@ If you want a quickstart and just get to the code, go to [this repository](https
 
 * Add MODE Testnet to your metamask using the network info from here:[Broken link](broken-reference "mention")
 * Get test ETH sepolia here: [testnet-faucets.md](../tools/testnet-faucets.md "mention")
-* Bridge to MODE testnet here: [bridging-to-mode-testnet.md](../general-info/bridge/bridging-to-mode-testnet.md "mention")
+* Bridge to MODE testnet here: [bridging-to-mode-testnet.md](../mode-testnet/bridging-to-mode-testnet.md "mention")
 * Have [Node and NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your PC
 * Have a basic understanding of React.js and how blockchain works
 

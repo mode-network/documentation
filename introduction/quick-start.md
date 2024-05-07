@@ -57,7 +57,7 @@ contract Storage {
 ```
 {% endcode %}
 
-If you know a little solidity, you must already notice something else in this contract. This contract is being registered to the SFS in the constructor. We won't go over this in depth in this tutorial, please go to [sfs-sequencer-fee-sharing](../tutorials/sfs-sequencer-fee-sharing/ "mention")if you want to know more about how it works.
+If you know a little solidity, you must already notice something else in this contract. This contract is being registered to the SFS in the constructor. We won't go over this in depth in this tutorial, please go to [sfs-sequencer-fee-sharing](../build-on-mode/sfs-sequencer-fee-sharing/ "mention")if you want to know more about how it works.
 
 
 
@@ -102,9 +102,9 @@ Now, MetaMask should pop up and ask you to confirm the transaction with super lo
 **CONGRATULATIONS! You just deployed your first smart contract to Mode.**
 {% endhint %}
 
-If you want to learn how to interact with your recently deployed contact, check [#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract](../tutorials/deploying-a-smart-contract/using-remix.md#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract "mention")
+If you want to learn how to interact with your recently deployed contact, check [#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract](../build-on-mode/deploying-a-smart-contract/using-remix.md#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract "mention")
 
-Or you can read more about the [sfs-sequencer-fee-sharing](../tutorials/sfs-sequencer-fee-sharing/ "mention").
+Or you can read more about the [sfs-sequencer-fee-sharing](../build-on-mode/sfs-sequencer-fee-sharing/ "mention").
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
 

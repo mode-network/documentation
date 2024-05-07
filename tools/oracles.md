@@ -12,12 +12,16 @@ Price feed on Testnet:\
 \
 For further details, please refer to [Pyth documentation](https://docs.pyth.network/documentation).
 
+***
+
 ## [Redstone](https://redstone.finance/)
 
 RedStone enforces design with independent and robust modules. Signed data packages are broadcasted to DDL and archived on Arweave. Consumers can use data feeds in Pull, Push and X models.
 
 Price feeds on Mode mainnet:\
 [https://docs.redstone.finance/docs/smart-contract-devs/price-feeds](https://docs.redstone.finance/docs/smart-contract-devs/price-feeds)
+
+***
 
 ## [Supra](https://supraoracles.com/)
 
