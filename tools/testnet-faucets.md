@@ -45,3 +45,12 @@ You can request Sepolia ETH quickly by connecting your wallet. You will also hav
 {% hint style="info" %}
 You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
 {% endhint %}
+
+
+### [Ethereum Ecosystem Faucet](https://www.ethereum-ecosystem.com/faucets/mode-sepolia)
+
+The [Mode Sepolia Faucet](https://www.ethereum-ecosystem.com/faucets/mode-sepolia) is a free & easy to use testnet faucet for Mode Sepolia with very generous drips that doesn't require users to log in. It's run by [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/).
+
+{% hint style="info" %}
+Each wallet is restricted to receiving 0.5 ETH from this faucet every 24 hours.
+{% endhint %}
