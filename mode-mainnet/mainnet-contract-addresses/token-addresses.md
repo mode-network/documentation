@@ -5,7 +5,7 @@ description: In this page you will find all the official token addresses on Mode
 # Tokens
 
 {% hint style="warning" %}
-If there are any missing tokens, please submit a PR to [this repo](../../README.m) to add them to this list.
+If there are any missing tokens, you can edit this page and submit a PR to github. Click the "Edit on Github" link on the right of this page.
 {% endhint %}
 
 {% hint style="info" %}
