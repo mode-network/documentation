@@ -6,7 +6,17 @@ description: In this guide we'll explain everything about staking and un-staking
 
 Staking is enabled for $MODE giving aditional benefits for the current Season 2.\
 \
-There will be points boosters for users staking their $MODE.
+There will be points boosters and OP rewards for users staking their $MODE.
+
+{% hint style="success" %}
+Once a week 20,000 OP will be distributed to everyone that staked Mode. Your share depends on the amount you staked, and the amount of blocks that passed.\
+\
+**OP rewards go live at 4pm UTC on Thursday May 16th.**\
+\
+**Tokens will be distributed on the Optimism chain.**\
+\
+[**Read More**](https://mode.mirror.xyz/PZiQ32QH8S\_HcyK\_NI93KYdlE\_koufq92dS7TKPgoIY)
+{% endhint %}
 
 ## Criteria to get the booster
 
