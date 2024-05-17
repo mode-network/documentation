@@ -9,7 +9,7 @@ Mode's bridge is a fork of Optimism's canonical bridge. With Optimism's Bedrock 
 {% hint style="info" %}
 You can check the status of your withdrawal in the [Transactions](https://app.mode.network/transactions/) section.\
 \
-The 7 day withdrawal period is due to how optimistic rollups work, it's called the challenge period. Read more about it [here](https://docs.optimism.io/builders/app-developers/bridging/messaging).
+The 7 day withdrawal period is due to how optimistic rollups work, it's called the challenge period. Read more about it [here](https://docs.optimism.io/builders/app-developers/bridging/messaging)
 {% endhint %}
 
 <details>
