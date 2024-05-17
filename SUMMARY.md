@@ -21,7 +21,7 @@
 * [🏡 Contract Addresses](mode-mainnet/mainnet-contract-addresses/README.md)
   * [Tokens](mode-mainnet/mainnet-contract-addresses/token-addresses.md)
   * [L1/L2 Mainnet Contracts](mode-mainnet/mainnet-contract-addresses/l1-l2-contracts.md)
-  * [Testnet](mode-testnet/testnet-contract-addresses.md)
+  * [Testnet Contracts](mode-testnet/testnet-contract-addresses.md)
 * [🌉 Bridge](mode-mainnet/bridge/README.md)
   * [➡️ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
   * [⬅️ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
