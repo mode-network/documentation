@@ -5,6 +5,7 @@ Mode’s tokenomics have been designed to decentralize Mode and reward users and
 **MODE Token**
 
 Ticker: $MODE \
+Contract Address: [0xDfc7C877a950e49D2610114102175A06C2e3167a](https://explorer.mode.network/token/0xDfc7C877a950e49D2610114102175A06C2e3167a) \
 Total Supply: 10,000,000,000 \
 Initial Circulating Supply: 1,300,000,000\
 
@@ -50,3 +51,12 @@ Mode core contributors that contribute to developing the Mode ecosystem
 * The Onchain Smart Treasury will be allocated MODE tokens by the Foundation on an ongoing basis decided by governance. The Onchain Smart Treasury will stream tokens to applications to be used as user incentives.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+**Token Distribution Details**
+
+At genesis there will be an initial total supply of 10,000,000,000 tokens. The token supply is fixed.&#x20;
+
+In Year 1, Mode Foundation's core goal is to distribute tokens to users and developers that grow the ecosystem in addition to developing the onchain treasury. From Year 2 onwards governance will manage distributions.&#x20;
+
+The Mode foundation estimates the total supply of circulating MODE tokens to increase as [detailed in this sheet (opens new window).](https://docs.google.com/spreadsheets/d/1iU4irsKAIhLdNqkJCC00gMmwVZD\_L9nxJOsYqk9Dl9c/edit#gid=470961921)
+
