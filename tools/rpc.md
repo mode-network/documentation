@@ -9,6 +9,13 @@ If your project needs better performance you can try running your own node. Chec
 Our public RPC is a full archive node and should be enough for most use cases:\
 RPC Endpoint: [https://mainnet.mode.network/](https://mainnet.mode.network/)
 
+## Tenderly
+
+Tenderly Node is a fast and reliable production node that enables access to over 12 blockchain networks via RPC. It allows you to send transactions, deploy smart contracts, query blockchain data or other operations without having to run your own node or manage infrastructure.
+
+\
+More info: [https://docs.tenderly.co/node/rpc-reference/mode#radix-:Rcu9m:](https://docs.tenderly.co/node/rpc-reference/mode#radix-:Rcu9m:)
+
 ## Blast API - Decentralized Web3 Infra - (Archival node)
 
 Solving Web3 reliability and performance issues by efficiently employing the resources of hundreds of third party node providers combined with a state-of-the-art decentralized blockchain API platform and an improved user experience.\
