@@ -6,19 +6,22 @@ description: In this guide we'll explain everything about staking and un-staking
 
 Staking is enabled for $MODE giving aditional benefits for the current Season 2.\
 \
-There will be points boosters and OP rewards for users staking their $MODE.
+By staking your $MODE, you'll get points boosters and OP rewards.
 
-{% hint style="success" %}
-Once a week 20,000 OP will be distributed to everyone that staked Mode. Your share depends on the amount you staked, and the amount of blocks that passed.\
-\
-**OP rewards go live at 4pm UTC on Thursday May 16th.**\
-\
-**Tokens will be distributed on the Optimism chain.**\
-\
-[**Read More**](https://mode.mirror.xyz/PZiQ32QH8S\_HcyK\_NI93KYdlE\_koufq92dS7TKPgoIY)
-{% endhint %}
+## OP rewards
 
-## Criteria to get the booster
+Once a week 20,000 OP will be distributed to everyone that staked Mode. Your share depends on the amount you staked, and the amount of blocks that passed. [**Read More**](https://mode.mirror.xyz/PZiQ32QH8S\_HcyK\_NI93KYdlE\_koufq92dS7TKPgoIY)**.**\
+\
+**OP rewards have been live since Thursday May 16th 2024.**
+
+**Key things to know about OP rewards:**
+
+* At 4pm UTC on Thursdays we take the weekly snapshot
+* On Fridays at 11am UTC the weekly claim will be released
+* You need to claim you OP tokens for the week before the next claim is published.&#x20;
+* **Tokens will be distributed on the Optimism chain.**
+
+## Criteria for the points booster
 
 1. Users need to stake enough $MODE to equal either 25% or 50% of their entire portfolio valued in USD. All assets from the wallet on Mode Mainnet are taken into account.\
    \
