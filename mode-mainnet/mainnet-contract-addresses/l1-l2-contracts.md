@@ -10,6 +10,7 @@ These are Mainnet contract addresses. If you want to add a missing one please su
 
 | Name                              | Address                                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| $MODE Staking Contract            | [0x74B847b308BD89Ef15639E6e4a2544E4b8b8C6B4](https://explorer.mode.network/address/0x74B847b308BD89Ef15639E6e4a2544E4b8b8C6B4?tab=tokens)   |
 | SFS Contract                      | [0x8680CEaBcb9b56913c519c069Add6Bc3494B7020](https://explorer.mode.network/address/0x8680CEaBcb9b56913c519c069Add6Bc3494B7020?tab=txs)      |
 | Pyth Oracle contract              | [0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)              |
 | Supra Pull Oracle contract        | [0x2FA6DbFe4291136Cf272E1A3294362b6651e8517](https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract) |
