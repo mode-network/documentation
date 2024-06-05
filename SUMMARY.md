@@ -6,11 +6,11 @@
 * [🕐 Quick start](introduction/quick-start.md)
 * [✅ Dev Onboarding Checklist](introduction/dev-onboarding-checklist.md)
 
-## $MODE&#x20;
+## $MODE
 
 * [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
-* [1️⃣ Season 1](usdmode/quick-start.md)
-* [2️⃣ Season 2](usdmode/quick-start-1.md)
+* [1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
+* [2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 

@@ -11,7 +11,7 @@ Snapshots will help you save time while synching your node to Mode.&#x20;
 
 * Mainnet
 
-[https://storage.cloud.google.com/conduit-networks-snapshots/mode/mainnet/latest.tar.gz](https://storage.cloud.google.com/conduit-networks-snapshots/mode/mainnet/latest.tar.gz)
+Tuesday 5th June **(latest)** - [https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-06-04.tar](https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-06-04.tar)
 
 <details>
 
