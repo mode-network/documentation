@@ -6,7 +6,7 @@ We are thrilled to announce the launch of Activity Points Season 2 on Mode. This
 
 ### Who is it for?
 
-Users that have signed up for the airdrop, and are not using a multisig wallet or smart contract. The full list of pools and dapps can be found here [volume-pairs.md](volume-pairs.md "mention")
+Users that have signed up for the airdrop, and are not using a multisig wallet or smart contract. The full list of pools and dapps can be found here [supported-volume-pairs.md](supported-volume-pairs.md "mention")
 
 ### Why do we do it?
 
@@ -14,7 +14,7 @@ The primary goal of Activity Points is to incentivize genuine transaction volume
 
 ### How does it work?
 
-1. **Participation**: Users swap tokens within designated pools on supported dapps. Check support in the [volume-pairs.md](volume-pairs.md "mention") page.
+1. **Participation**: Users swap tokens within designated pools on supported dapps. Check support in the [supported-volume-pairs.md](supported-volume-pairs.md "mention") page.
 2. **Volume Calculation**: The total volume from these pools is aggregated daily.
 3. **Point Distribution**: Points are distributed based on each user’s share of the total daily volume. For example, a volume of 10 ETH will contribute to the user’s share of the total daily volume, impacting their points accordingly.
 
