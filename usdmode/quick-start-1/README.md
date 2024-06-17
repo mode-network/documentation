@@ -1,4 +1,4 @@
-# 2️⃣ Season 2
+# 2️⃣ 2️⃣ Season 2
 
 Airdrop 2 beginned on the 5th May 2024 and run until 6th September 2024
 
@@ -62,7 +62,7 @@ Users will be able to stake their $MODE tokens to earn a Global Multiplier on al
 * If users stake $MODE greater than 25% of the value of their total Assets on Mode (updated daily) – **they will receive a 1.25x multiplier on all Mode Points**
 * e.g. if the user had a portfolio value of $100k on Mode today, they would need to stake $25k or more of $MODE to be eligible for the 1.25x multiplier.
 
-Read more in [staking.md](staking.md "mention")
+Read more in [staking.md](../staking.md "mention")
 
 In addition, users that stake $MODE can earn airdrops from ecosystem teams and in the future staking $MODE will earn revenue via restaking to secure Mode’s L3 ecosystem.
 
