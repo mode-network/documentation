@@ -10,9 +10,7 @@
 
 * [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
 * [1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
-* [2️⃣ 2️⃣ Season 2](usdmode/quick-start-1/README.md)
-  * [Volume points](usdmode/quick-start-1/volume-points/README.md)
-    * [Supported Volume Pairs](usdmode/quick-start-1/volume-points/supported-volume-pairs.md)
+* [2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
