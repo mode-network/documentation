@@ -1,6 +1,6 @@
 # 2️⃣ 2️⃣ Season 2
 
-Airdrop 2 beginned on May 5th 2024 and runs until September 6th 2024
+Airdrop 2 began on May 5th, 2024, and runs until September 6th, 2024.
 
 {% hint style="info" %}
 Season 2 Airdrop is live, you can check your status on your [Mode Dashboard here. ](https://app.mode.network/early/)
