@@ -5,6 +5,27 @@
 If you want to run a node for Mode you can follow these instructions:\
 [https://github.com/mode-network/rollup-node](https://github.com/mode-network/rollup-node)
 
+{% hint style="warning" %}
+**FJORD UPDATE -** `Wed Jul 10 16:00:01 UTC 2024`\
+\
+Node operators will need to upgrade to Fjord before the activation date. For Sepolia, the op-node release [v1.7.7(opens in a new tab)](https://github.com/ethereum-optimism/optimism/releases/tag/v1.7.7) and op-geth release [v1.101315.2(opens in a new tab)](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101315.2) contain these changes.\
+\
+Please update to the latest releases of [op-geth](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101315.2) and [op-node](https://github.com/ethereum-optimism/optimism/releases/tag/v1.7.7).
+
+\
+**VERIFY**\
+
+
+Make the following checks to verify that your node is properly configured.
+
+* `op-node` and `op-geth` will log their configurations at startup
+* Check that the Fjord time is set to `activation-timestamp` in the op-node startup logs
+* Check that the Fjord time is set to `activation-timestamp` in the op-geth startup logs
+
+\
+**For more information please visit** [**Optimism's documentation**](https://docs.optimism.io/builders/notices/fjord-changes#verify-your-configuration)**.**
+{% endhint %}
+
 ### Snapshots
 
 Snapshots will help you save time while synching your node to Mode.&#x20;
