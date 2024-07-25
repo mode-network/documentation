@@ -30,7 +30,7 @@ Fund your wallet with testnet gas and Aori's testnet tokens $YIN & $YANG on your
 
 ### [Alchemy's Sepolia Faucet](https://sepoliafaucet.com/) <a href="#blockscout" id="blockscout"></a>
 
-You can request 0.5 ETH from this faucet every 24 hours. You will also have to bridge to mode testnet.
+You can request 0.1 ETH from this faucet every 24 hours if you have 0.001 ETH in your wallet. You will also have to bridge to mode testnet after receiving the tokens in the ETH sepolia network.
 
 {% hint style="info" %}
 Email sign-up is required to use this faucet. You do not need Mainnet ETH.
