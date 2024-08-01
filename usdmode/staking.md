@@ -4,9 +4,23 @@ description: In this guide we'll explain everything about staking and un-staking
 
 # 🌱 Staking
 
-Staking is enabled for $MODE giving aditional benefits for the current Season 2.\
+Staking is enabled for $MODE and the MODE/USDC Balancer Pool Token giving aditional benefits for the current Season 2.\
 \
-By staking your $MODE, you'll get points boosters and OP rewards.
+By staking your $MODE or MODE/USDC Balancer Pool Token you'll get points boosters and OP rewards. Please note that unstaking has a cooldown period of 7 days.&#x20;
+
+## Guide to Staking $MODE and MODE-USDC BPT&#x20;
+
+Users can stake Mode and/or the MODE-USDC Balancer Pool Token via the staking module on the Mode dashboard at  [https://app.mode.network/early/](https://app.mode.network/early/)\
+\
+**Staking $MODE**\
+&#x20;\
+Step 1: Ensure you have $MODE in your wallet. You can see how you can get $MODE here \
+Step 2: Stake your tokens in the Staking Module on the Mode dashboard at  [https://app.mode.network/early/](https://app.mode.network/early/) \
+\
+**Staking MODE-USDC BPT (MODE-USDC Balancer Pool Token)**\
+&#x20;\
+Step 1: Go to Balancer and deposit [$MODE and $USDC into the balancer pool. ](https://balancer.fi/pools/mode/v2/0xa4781148e4a8a0903d795464e5c206a7f33851ba000200000000000000000008)\
+Step 2: Visit the Staking Module on the Mode Dashboard and select **MODE-USDC BPT** then stake your tokens [https://app.mode.network/early/](https://app.mode.network/early/)&#x20;
 
 ## OP rewards
 
@@ -18,8 +32,8 @@ Once a week 20,000 OP will be distributed to everyone that staked Mode. Your sha
 
 * At 4pm UTC on Thursdays we take the weekly snapshot
 * On Fridays at 11am UTC the weekly claim will be released
-* You need to claim you OP tokens for the week before the next claim is published.&#x20;
-* **Tokens will be distributed on the Optimism chain.**
+* You need to claim your OP tokens for the week before the next claim is published.&#x20;
+* **OP rewards will be distributed on the Optimism chain.**
 
 ## Criteria for the points booster
 
