@@ -69,6 +69,8 @@
 
 * [🔓 Mode L2 Security Model](security/quick-start.md)
 * [⛑️ Optimism Bug Bounty](security/quick-start-1.md)
+* [Security Upgrades](security/security-upgrades/README.md)
+  * [01/08/2024 Bridge Upgrade Fund Rescue](security/security-upgrades/01-08-2024-bridge-upgrade-fund-rescue.md)
 
 ## Other Docs
 
