@@ -9,7 +9,7 @@ On 1st August 2024 Mode ran a planned upgrade to rescue 4880 ETH in funds sent t
 
 **Overview**\
 \
-On May 8, 2024, Etherfi generated a proof using an incorrect messenger for withdrawals on the Mode Bridge \
+On May 8, 2024, Etherfi generated a proof using an incorrect messenger for withdrawals on the Mode Bridge causing funds to be stuck.\
 \
 Shortly after the event, the EtherFi team reached out to Mode and an initial proposal was made by Nethermind ([link](https://github.com/etherfi-protocol/postmortems/blob/master/1715209000-l2-l1-sync-misconfiguration/NM0243-ETHERFI-REPORT.pdf)) to rescue the funds. \
 \
