@@ -6,13 +6,13 @@ On 1st August 2024 Mode ran a planned upgrade to rescue 4880 ETH in funds sent t
 \
 [Rescue tx ](https://etherscan.io/tx/0x9154d2b581e84b15615b4a857476af9fa6b682622d6e30e7c28bae6331a5fe39)
 
-After an initial proposal was made (link) and the upgrade was reviewed multiple times by leading security researchers the rescue was completed successfully with minimal disruption to the network. \
+After an initial proposal was made by Nethermind ([link](https://github.com/etherfi-protocol/postmortems/blob/master/1715209000-l2-l1-sync-misconfiguration/NM0243-ETHERFI-REPORT.pdf)) and the upgrade was reviewed multiple times by leading security researchers, the rescue was completed successfully with minimal disruption to the network. \
 \
-**Why did we not disclose this rescue in advance?**&#x20;
+**Why was this rescue not disclosed in advance?**&#x20;
 
-There were concerns of making this rescue public due to the risk of the message not being finalized or a malicious actor sending a proof. After multiple security reviews we found a safer solution which bypassed these risks and executed this.
+There were concerns of making this rescue public due to the risk of the message not being finalized or a malicious actor sending a proof. After multiple security reviews we found a safer solution which bypassed these risks and executed this.&#x20;
 
-**Please see the** [**full post-mortem on the EtherFi github here.** ](https://github.com/etherfi-protocol/postmortems/?tab=readme-ov-file)
+**For further details see the** [**full post-mortem on the EtherFi github here.** ](https://github.com/etherfi-protocol/postmortems/?tab=readme-ov-file)
 
 \
 
