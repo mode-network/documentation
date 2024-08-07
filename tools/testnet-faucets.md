@@ -12,6 +12,11 @@ The Superchain Faucet provides testnet ETH for all OP Chains, including Mode.
 
 ***
 
+### [thirdweb Mode Sepolia Faucet](https://thirdweb.com/mode-testnet)
+
+thirdweb Mode Sepolia Faucet provides 0.1 testnet ETH every 24 hours without bridging.
+
+***
 ### [Automata L2Faucet](https://www.l2faucet.com/mode)
 
 {% hint style="info" %}
@@ -22,7 +27,7 @@ You can request some Sepolia ETH on Ethereum Sepolia testnet and then bridge the
 
 ***
 
-## [Aori Faucet](https://app.aori.io/faucet)
+### [Aori Faucet](https://app.aori.io/faucet)
 
 Fund your wallet with testnet gas and Aori's testnet tokens $YIN & $YANG on your choice of testnets. Authenticate with your wallet for a drip every 8 hours.
 
