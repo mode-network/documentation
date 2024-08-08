@@ -27,7 +27,7 @@ You can request some Sepolia ETH on Ethereum Sepolia testnet and then bridge the
 
 ***
 
-### [Aori Faucet](https://app.aori.io/faucet)
+## [Aori Faucet](https://app.aori.io/faucet)
 
 Fund your wallet with testnet gas and Aori's testnet tokens $YIN & $YANG on your choice of testnets. Authenticate with your wallet for a drip every 8 hours.
 
