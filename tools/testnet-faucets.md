@@ -14,7 +14,7 @@ The Superchain Faucet provides testnet ETH for all OP Chains, including Mode.
 
 ### [thirdweb Mode Sepolia Faucet](https://thirdweb.com/mode-testnet)
 
-thirdweb Mode Sepolia Faucet provides 0.1 testnet ETH every 24 hours without bridging.
+thirdweb Mode Sepolia Faucet provides 0.01 testnet ETH every 24 hours without bridging.
 
 ***
 ### [Automata L2Faucet](https://www.l2faucet.com/mode)
