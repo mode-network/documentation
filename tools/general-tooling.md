@@ -26,3 +26,8 @@ Thirdweb is now running a startup program with a lot of amazing benefits for bui
 
 ***
 
+## [Supermigrate](https://supermigrate.xyz/en)
+
+Supermigrate enables the automatic deployment of existing ERC20 tokens to Layer 2 networks such as Mode. Earn rewards while bridging and adding liquidity.
+
+***
