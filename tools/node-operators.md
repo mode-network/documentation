@@ -22,41 +22,15 @@ Snapshots will help you save time while synching your node to Mode.&#x20;
 
 * Mainnet
 
-Tuesday 5th June **(latest)** - [https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-07-12.tar](https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-07-12.tar)
+Tuesday 3rd September **(latest)** -&#x20;
+
+{% embed url="https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-09-03.tar" %}
 
 * Testnet
 
-[https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz](https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz)
-
-[https://github.com/ethereum-optimism/specs/blob/main/specs/fjord/overview.md](https://github.com/ethereum-optimism/specs/blob/main/specs/fjord/overview.md)
-
-##
+{% embed url="https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz" %}
 
 ## Past updates
-
-<details>
-
-<summary></summary>
-
-**FJORD UPDATE -** `Wed Jul 10 16:00:01 UTC 2024`\
-\
-Node operators will need to upgrade to Fjord before the activation date. For Sepolia, the op-node release [v1.7.7(opens in a new tab)](https://github.com/ethereum-optimism/optimism/releases/tag/v1.7.7) and op-geth release [v1.101315.2(opens in a new tab)](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101315.2) contain these changes.\
-\
-Please update to the latest releases of [op-geth](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101315.2) and [op-node](https://github.com/ethereum-optimism/optimism/releases/tag/v1.7.7).
-
-\
-**VERIFY**
-
-Make the following checks to verify that your node is properly configured.
-
-* `op-node` and `op-geth` will log their configurations at startup
-* Check that the Fjord time is set to `activation-timestamp` in the op-node startup logs
-* Check that the Fjord time is set to `activation-timestamp` in the op-geth startup logs
-
-\
-**For more information please visit** [**Optimism's documentation**](https://docs.optimism.io/builders/notices/fjord-changes#verify-your-configuration)**.**
-
-</details>
 
 <details>
 
