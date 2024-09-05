@@ -1,6 +1,6 @@
-# 2️⃣ 2️⃣ Season 2
+# 2️⃣ 2️⃣ 2️⃣ Season 2
 
-Airdrop 2 began on May 5th, 2024, and runs until September 6th, 2024.
+Airdrop 2 began on May 5th, 2024, and runs until October, 2024.
 
 {% hint style="info" %}
 Season 2 Airdrop is live, you can check your status on your [Mode Dashboard here. ](https://app.mode.network/early/)
@@ -8,7 +8,7 @@ Season 2 Airdrop is live, you can check your status on your [Mode Dashboard here
 
 **Summary:**&#x20;
 
-* 500,000,000 MODE tokens (5% of MODE total supply) available
+* 500,000,000 MODE tokens, 5% of MODE total supply available. This amount will be increased.&#x20;
 * Up to 1,000,000 in OP tokens incentives&#x20;
 * MODE staking is available to earn points multipliers and ecosystem airdrops
 
