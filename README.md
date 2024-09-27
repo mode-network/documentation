@@ -46,6 +46,6 @@ All developers building Open Source apps and tools on Mode can apply for Optimis
 
 Mode has implemented Optimism's Bedrock upgrade which has significantly reduced the fees to be over 95% less than Ethereum. This makes it fast and cheap to use, great for end-user dApps!
 
-### Contributing to the Superchain[​](https://docs.base.org/#open-source)
+### [​Contributing to the Superchain](https://docs.base.org/#open-source)
 
 Mode is powered by the [OP Stack](https://stack.optimism.io/), in collaboration with Optimism. We aim to contribute to growing Optimism's Superchain ecosystem as the main DeFi hub.
