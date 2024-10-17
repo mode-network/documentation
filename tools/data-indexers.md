@@ -16,6 +16,14 @@ Deploy a subgraph: [https://thegraph.com/studio/](https://thegraph.com/studio/)
 
 ---
 
+## [Indexing Co](https://www.indexing.co)
+
+Indexing Co offers just-in-time indexing, data engineering, and custom data infrastructure services. Any EVM or non-EVM chain can be indexed with the ability to integrate off-chain data. Our data pipelines are optimized for decoding, transformations and aggregations to ensure delivery and low-latency. Our indexer and data pipeline infrastructure is made for modular chain setups, multi-chain products, the explosion of L1/L2/L3 chains and AI. 
+
+Publish a data flow using our [Console](https://console.indexing.co/) or [get in touch](https://www.indexing.co/get-in-touch) for custom data pipelines.
+
+---
+
 ## [Covalent](https://www.covalenthq.com/docs/networks/mode-testnet/)
 
 Covalent is a blockchain data service that offers access to both current and historical on-chain information over a range of more than 100 blockchains, which includes Mode.
