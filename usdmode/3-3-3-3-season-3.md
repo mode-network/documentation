@@ -1,5 +1,7 @@
 # 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3
 
+##
+
 ## Season 3
 
 #### Introduction
@@ -138,11 +140,13 @@ Each epoch consists of a detailed process flow to manage protocol applications, 
 * **Active Role in Ecosystem Growth:** Directly influence which protocols receive incentives, driving the growth of projects you believe in.
 * **Rewards for Engagement:** Earn OP rewards by actively participating
 
-#### FAQ
+## FAQ
 
-Q: I see it says there is a minimum warm-up and cool-down period How does this work in-between voting windows? When do I start accumulating voting power?
+<details>
 
-A: There exist weekly Checkpoint Intervals that align with the start of voting windows. When a user wants to withdraw, they have to wait until at least the upcoming checkpoint interval (plus any remaining cooldown) to withdraw. For warmups, a user must stake at least 3 days before a Checkpoint Interval before being eligible to vote. Furthermore, voting power only starts accumulating at the start of an upcoming Checkpoint Interval.\
+<summary>I see it says there is a minimum warm-up and cool-down period How does this work in-between voting windows? When do I start accumulating voting power?</summary>
+
+&#x20;There exist weekly Checkpoint Intervals that align with the start of voting windows. When a user wants to withdraw, they have to wait until at least the upcoming checkpoint interval (plus any remaining cooldown) to withdraw. For warmups, a user must stake at least 3 days before a Checkpoint Interval before being eligible to vote. Furthermore, voting power only starts accumulating at the start of an upcoming Checkpoint Interval.\
 \
 The Dashboard will clearly indicate time remaining on veTKNs transitioning states.\
 \
@@ -152,21 +156,41 @@ Examples:
 * Alice queues for a withdrawal on Tuesday. She must wait until Thursday + 1 day of cooldown to withdraw her stake
 * Bob wants to exit but has voted last week, as we are currently in the non-voting distribution window he has to wait until voting opens to remove his votes and begin exiting.
 
-\
-–
+</details>
 
-\
-Q: Will the Mode foundation be voting in the gauges?
+<details>
 
-A: Mode will participate in the gauges in a limited, strategic fashion - particularly in instances to support new protocols and assets deploying on Mode.\
-\
-–\
-\
-Q: Where can I apply to be eligible to receive gauge incentives?
+<summary>Will the Mode foundation be voting in the gauges?</summary>
 
-A: Protocols can apply on the Mode Forums anytime and will be added as a gauge option on a rolling epoch basis (every 2 weeks). \
+Mode will participate in the gauges in a limited, strategic fashion - particularly in instances to support new protocols and assets deploying on Mode.
+
+</details>
+
+<details>
+
+<summary>Where can I apply to be eligible to receive gauge incentives?</summary>
+
+Protocols can apply on the Mode Forums anytime and will be added as a gauge option on a rolling epoch basis (every 2 weeks). \
 \
-Visit the Forum here: [https://forum.mode.network/c/governance/season-3-eligibility/7](https://forum.mode.network/c/governance/season-3-eligibility/7)\
-–\
-\
+Visit the Forum here: [https://forum.mode.network/c/governance/season-3-eligibility/7](https://forum.mode.network/c/governance/season-3-eligibility/7)
+
+</details>
+
+<details>
+
+<summary>Have you read every document and still want to know more?</summary>
+
+{% code overflow="wrap" %}
+```
+- .... .. ... / .. ... / .- / --. .. ..-. - / ..-. --- .-. / - .... --- ... . / .-- .... --- / .- -.-. - ..- .- .-.. .-.. -.-- / .-. . .- -.. / - .... .-. --- ..- --. .... / - .... . / -.. --- -.-. ... .-.-.- / .... . .-. . / .. ... / .- / .-- .- .-.. .-.. . - / .-- .. - .... / ... --- -- . / -- --- -.. . / ..-. --- .-. / -.-- --- ..- .-.-.- / . -. .--- --- -.-- / ...- --- - .. -. --. .-.-.-
+
+...-- ---.. ...-- -.... .---- ...-- .- . .---- .---- .---- .- ---.. ..... --... ----. --... -... -.. ..--- . ..... . ----. --... ----. -.-. ..--- -.-. ----- ...-- -.-. ...-- -.... -.. ..-. -.. -.-. ..--- ...-- ..--- -... . ..--- ----. ..... ...-- ----- ....- -.. -... ---.. ....- -.. --... -.... .- -.. ----. -.. ....- ....- ..--- -...."
+
+```
+{% endcode %}
+
+</details>
+
+
+
 Additional FAQs can be found here: [https://forum.mode.network/t/season-iii-faq/36](https://forum.mode.network/t/season-iii-faq/36)\
