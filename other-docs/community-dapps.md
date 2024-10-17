@@ -1,5 +1,6 @@
 ---
 description: Testnet apps that devs from the community decided to build
+hidden: true
 ---
 
 # 🫂 Community dApps

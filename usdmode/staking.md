@@ -1,5 +1,6 @@
 ---
 description: In this guide we'll explain everything about staking and un-staking $MODE
+hidden: true
 ---
 
 # 🌱 Staking

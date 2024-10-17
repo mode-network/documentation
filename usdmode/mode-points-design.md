@@ -1,5 +1,6 @@
 ---
 description: Mode points calculations
+hidden: true
 ---
 
 # 🎯 Mode Points Design
