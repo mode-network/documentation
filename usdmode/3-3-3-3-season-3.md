@@ -1,6 +1,16 @@
 # 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3
 
-##
+{% hint style="info" %}
+**Season 2 Airdrop Now Claimable!**
+
+The Season 2 airdrop is live! You can view your allocation and claim your rewards directly through the [Mode Dashboard](https://www.mode.network/).
+
+* **Claim Period**:
+  * Opens: 18 Oct, 18:30 UTC
+  * Closes: 29 Nov, 23:59 UTC
+
+Check your wallet in  [this document](https://docs.google.com/spreadsheets/d/1nz\_kZQq0dsQm627D4es1Lz4DMvD7rnrDHSnXVIy52IM/edit?gid=0#gid=0) for any vesting details.
+{% endhint %}
 
 ## Season 3
 
