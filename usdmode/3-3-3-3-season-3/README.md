@@ -1,4 +1,4 @@
-# 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3
+# 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3
 
 {% hint style="info" %}
 **Season 2 Airdrop Now Claimable!**
@@ -99,16 +99,16 @@ Each epoch consists of a detailed process flow to manage protocol applications, 
    Protocols apply for eligibility to be included as options in the gauge votes for the initial epoch.
 3. **3-Day Setup of Initial Gauges:**\
    The Governance Council reviews applications and sets up initial gauges that will be included in the voting process.
-4. **7-Day Voting Window (Epoch Voting):**\
-   Users stake their veTKNs and vote on their preferred protocols during this period.
-
-* Warm-Up Period: A minimum 3-day warm-up period precedes the voting window to determine vote eligibility. Users who do not stake their veTKNs during this period will be ineligible to vote for the first epoch.
-
-5. 3-Day Eligibility Window for New Protocols (Future Epochs):\
+4. **Warm-Up Period:** A minimum 3-day warm-up period precedes vote eligibility. Users who do not stake their veTKNs during this period will be ineligible to vote for the first epoch.\
+   \
+   Staking Deadline is 23:59:59 UTC the day before the voting period to allow enough time to warm up to vote
+5. **7-Day Voting Window (Epoch Voting):**\
+   Users with staked and warmed up veTKNs vote on their preferred protocols during this period.
+6. **3-Day Eligibility Window for New Protocols (Future Epochs):**\
    After the voting window, there is a 3-day eligibility period during which new protocols can apply to be included in future gauge listings.
-6. 4-Day Buffer Window:\
+7. 4-Day Buffer Window:\
    A buffer window allows for the addition of new protocols to the gauge options if applicable. During this time, the Governance Council finalizes and prepares for the next epoch.
-7. Cooldown Window (2 Stages):
+8. Cooldown Window (2 Stages):
 
 * Stage 1: Users can request to withdraw their staked veTKNs at any point during the voting period. When a withdrawal request is made, the user’s votes are reset (removed) from the gauges, and their NFT representing the staked veTKNs is transferred to an exit queue.
 * Stage 2: After a waiting period of \~3-6 days, users can return to the platform to retrieve their tokens. Retrieving the tokens burns the NFT from the exit queue. There are no restrictions on when users can complete this stage, as the votes have already been removed once the withdrawal request is initiated.
@@ -129,6 +129,8 @@ Each epoch consists of a detailed process flow to manage protocol applications, 
 
 * **Stake MODE Tokens:** Visit gov.mode.network to stake your MODE tokens and receive veMODE tokens, which will grant you voting power.
 * **Stake BPT Tokens:** Stake your 80/20 MODE/ETH BPT tokens to receive veBPT tokens, which also provide voting rights in the governance process.
+
+Staking Deadline is 23:59:59 UTC the day before the voting period to allow enough time to warm up to vote
 
 3. Accumulate Voting Power:
 
@@ -198,6 +200,14 @@ Visit the Forum here: [https://forum.mode.network/c/governance/season-3-eligibil
 
 ```
 {% endcode %}
+
+</details>
+
+<details>
+
+<summary>Where can I find the smart contract addresses for the Governance?</summary>
+
+You can find all the contract addresses in [this notion page](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f).
 
 </details>
 
