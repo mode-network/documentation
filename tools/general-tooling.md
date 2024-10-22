@@ -26,6 +26,11 @@ Thirdweb is now running a startup program with a lot of amazing benefits for bui
 
 ***
 
+## [Supermigrate](https://supermigrate.xyz/en)
+
+Supermigrate enables the automatic deployment of existing ERC20 tokens to Layer 2 networks such as Mode. Earn rewards while bridging and adding liquidity.
+
+
 ## [ZeroDev](https://docs.zerodev.app/)
 
 ZeroDev is the first chain-abstracted smart account. Mode applications can use ZeroDev to embed a wallet that accepts deposits from any chain, and spend the deposits on any chain, all without the user explicitly dealing with bridging.\
