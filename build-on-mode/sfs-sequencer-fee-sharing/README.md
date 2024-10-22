@@ -1,5 +1,7 @@
 ---
 description: Intro to the Sequencer Fee Sharing
+hidden: true
+noIndex: true
 ---
 
 # SFS - Sequencer Fee Sharing

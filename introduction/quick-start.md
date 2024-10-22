@@ -102,9 +102,7 @@ Now, MetaMask should pop up and ask you to confirm the transaction with super lo
 **CONGRATULATIONS! You just deployed your first smart contract to Mode.**
 {% endhint %}
 
-If you want to learn how to interact with your recently deployed contact, check [#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract](../build-on-mode/deploying-a-smart-contract/using-remix.md#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract "mention")
-
-Or you can read more about the [sfs-sequencer-fee-sharing](../build-on-mode/sfs-sequencer-fee-sharing/ "mention").
+If you want to learn how to interact with your recently deployed contact, check [#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract](../build-on-mode/deploying-a-smart-contract/using-remix.md#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract "mention").
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
 
