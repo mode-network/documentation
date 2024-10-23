@@ -110,8 +110,12 @@ Each epoch consists of a detailed process flow to manage protocol applications, 
    A buffer window allows for the addition of new protocols to the gauge options if applicable. During this time, the Governance Council finalizes and prepares for the next epoch.
 8. Cooldown Window (2 Stages):
 
-* Stage 1: Users can request to withdraw their staked veTKNs at any point during the voting period. When a withdrawal request is made, the user’s votes are reset (removed) from the gauges, and their NFT representing the staked veTKNs is transferred to an exit queue.
+* Stage 1: Users can request to withdraw their staked veTKNs at any point during the Voting period if they don’t have votes active in the gauge. When a withdrawal request is made, the user’s votes are reset (removed) from the gauges, and their NFT representing the staked veTKNs is transferred to an exit queue.
 * Stage 2: After a waiting period of \~3-6 days, users can return to the platform to retrieve their tokens. Retrieving the tokens burns the NFT from the exit queue. There are no restrictions on when users can complete this stage, as the votes have already been removed once the withdrawal request is initiated.
+
+Maximum time for users to wait to withdraw would be up to \~13 days:  Distribution period (\~6 days) + Voting period (\~7 days).&#x20;
+
+Minimum time: 3 days (within Voting period)
 
 8. **Incentive Distribution (Each Epoch for Prior Epoch Results):**\
    Incentives are distributed each epoch for the results of the previous epoch. This involves two separate distributions to the selected protocols.
