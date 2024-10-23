@@ -31,7 +31,7 @@ Mode’s governance uses two types of veTokens, which users can stake to partici
 
 Both veTokens allow users to participate in gauge voting and direct the distribution of incentives. Users have the flexibility to participate with either veMODE or veBPT, or both, based on their strategy and commitment.\
 \
-veMODE and veBPT will each direct a separate allocation of incentives, so vote power will be independent for each.
+veMODE and veBPT will each direct a separate allocation of incentives (50/50 of total), so vote power will be independent for each.
 
 **Voting Power and OP Rewards:**
 
