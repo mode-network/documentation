@@ -223,6 +223,14 @@ When a withdrawal request is made, we first check the user is not voting and att
 
 </details>
 
+<details>
+
+<summary>Where can I find the audits of the governance contracts?</summary>
+
+[https://github.com/aragon/ve-governance/tree/develop/audits](https://github.com/aragon/ve-governance/tree/develop/audits)
+
+</details>
+
 
 
 Additional FAQs can be found here: [https://forum.mode.network/t/season-iii-faq/36](https://forum.mode.network/t/season-iii-faq/36)\
