@@ -225,6 +225,20 @@ When a withdrawal request is made, we first check the user is not voting and att
 
 <details>
 
+<summary>I see I can participate with veMODE and veBPT.  What is the difference?</summary>
+
+veBPT is acquired by staking 80/20 MODE/ETH LP on [Balancer](https://balancer.fi/pools/mode/v2/0x7c86a44778c52a0aad17860924b53bf3f35dc932000200000000000000000007). So if a user has $100 staked, their position would be $80 in MODE and $20 in ETH.\
+\
+Other differences:\
+<img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">
+
+\
+
+
+</details>
+
+<details>
+
 <summary>Where can I find the audits of the governance contracts?</summary>
 
 [https://github.com/aragon/ve-governance/tree/develop/audits](https://github.com/aragon/ve-governance/tree/develop/audits)
