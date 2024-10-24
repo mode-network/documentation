@@ -215,6 +215,14 @@ You can find all the contract addresses in [this notion page](https://aragonorg.
 
 </details>
 
+<details>
+
+<summary>May I get more details on how this unstaking works during the voting period?</summary>
+
+When a withdrawal request is made, we first check the user is not voting and attempt to reset the votes by removing them from the gauge. If successful, the NFT representing the staked veTKNs is transferred to the Escrow until redemption, after which point it will be burned
+
+</details>
+
 
 
 Additional FAQs can be found here: [https://forum.mode.network/t/season-iii-faq/36](https://forum.mode.network/t/season-iii-faq/36)\
