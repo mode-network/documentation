@@ -84,8 +84,10 @@ Each epoch, users vote on a list of eligible protocols that have applied to be i
 
 Protocols that receive incentives from the gauge votes are responsible for distributing these incentives strategically to their users to promote growth and adoption.
 
-* **Restrictions on Reward Usage:** Protocols cannot use the rewards to incentivize further governance participation (OP bribes, incentivizing Mode voting meta-vaults with OP, etc). They must use the rewards to incentivize user actions that facilitate protocol growth, such as providing liquidity (LPs), trading activity, borrowing/minting from collateralized markets, etc.
-* **Strategic Allocation:** Protocols should use Merkl to distribute incentives. If other distribution channels are used, they must be clearly stated and include a way to communicate transparent metrics to ensure accountability and fairness.
+* **Restrictions on Reward Usage**: Protocols cannot use the rewards to incentivize further governance participation (OP bribes, incentivizing Mode voting meta-vaults with OP, etc) . They must use the rewards to incentivize user actions that facilitate protocol growth, such as providing liquidity (LPs), trading activity, borrowing/minting from collateralized markets, etc.
+  * OP incentives distributed via channels other than Merkl/Fuul need to target assets on Mode and must be claimable/distributed on Optimism Mainnet. OP cannot be sold and then distributed (https://gov.optimism.io/t/collective-grant-policies/5833).\
+
+* **Strategic Allocation:** Protocols should use Merkl or Fuul to distribute incentives. If other distribution channels are used, they must be clearly stated and include a way to communicate transparent metrics to ensure accountability and fairness.
 * **Driving Adoption:** This approach ensures that incentives are not only allocated to protocols but are also used to foster real growth and user engagement within the ecosystem.
 * **Initiate Campaigns Within 14 Days:** Protocols should set up campaigns to distribute rewards within 14 days of receiving incentives to remain eligible to receive rewards in future epochs. Length of campaigns are at the discretion of the protocols.
 
@@ -194,21 +196,6 @@ Visit the Forum here: [https://forum.mode.network/c/governance/season-3-eligibil
 
 <details>
 
-<summary>Have you read every document and still want to know more?</summary>
-
-{% code overflow="wrap" %}
-```
-- .... .. ... / .. ... / .- / --. .. ..-. - / ..-. --- .-. / - .... --- ... . / .-- .... --- / .- -.-. - ..- .- .-.. .-.. -.-- / .-. . .- -.. / - .... .-. --- ..- --. .... / - .... . / -.. --- -.-. ... .-.-.- / .... . .-. . / .. ... / .- / .-- .- .-.. .-.. . - / .-- .. - .... / ... --- -- . / -- --- -.. . / ..-. --- .-. / -.-- --- ..- .-.-.- / . -. .--- --- -.-- / ...- --- - .. -. --. .-.-.-
-
-...-- ---.. ...-- -.... .---- ...-- .- . .---- .---- .---- .- ---.. ..... --... ----. --... -... -.. ..--- . ..... . ----. --... ----. -.-. ..--- -.-. ----- ...-- -.-. ...-- -.... -.. ..-. -.. -.-. ..--- ...-- ..--- -... . ..--- ----. ..... ...-- ----- ....- -.. -... ---.. ....- -.. --... -.... .- -.. ----. -.. ....- ....- ..--- -...."
-
-```
-{% endcode %}
-
-</details>
-
-<details>
-
 <summary>Where can I find the smart contract addresses for the Governance?</summary>
 
 You can find all the contract addresses in [this notion page](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f).
@@ -245,6 +232,33 @@ Other differences:\
 
 </details>
 
+<details>
 
+<summary>How do I see how much MODE or BPT that I have staked?</summary>
+
+
+
+1. Go to:\
+   [https://explorer.mode.network/address/0xB508d9Cd504C740C0C3a7c708F7154c2FC978D16?tab=read\_contract\
+   \
+   ](https://explorer.mode.network/address/0xB508d9Cd504C740C0C3a7c708F7154c2FC978D16?tab=read\_contract)
+2. Select “Contract” -> “Read Contract” -> “2.getTotalStaked”
+3. Input your wallet address in the “\_account (address)\*” field
+4. Click on “Read”
+5. The output will be the amount of staked mode with 18 zeros. Hover over this number, and it will show the staked amount.
+6. It will show “ETH” as a ticker; just ignore it. This number equals staked Mode on the selected wallet.
+
+<!---->
+
+7.  For BPT: To check staked BPT, repeat the same steps but on a different smart contract:\
+    \
+    [https://explorer.mode.network/address/0x394E9C0b312f0013653d764522bA17207eE97D9B?tab=read\_contract](https://explorer.mode.network/address/0x394E9C0b312f0013653d764522bA17207eE97D9B?tab=read\_contract)\
+
+
+    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcP9icndf0yE71VQgQpj_mX_WHupmnd27aQJThPmfyEBX25pv2mnFpEdouvpUSDoydeSsZAS3INRPpn6XtJV1hWmuk2rNzFTT3HEHXhcEnSAYee9Pc76PAgC4ZQH66jXLwhK3M2Sm7o7ey_v0rsJI930I_v?key=cl91OfCMUhOOv8yD5HRzWg" alt=""><figcaption></figcaption></figure>
+
+
+
+</details>
 
 Additional FAQs can be found here: [https://forum.mode.network/t/season-iii-faq/36](https://forum.mode.network/t/season-iii-faq/36)\
