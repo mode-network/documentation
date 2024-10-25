@@ -84,7 +84,7 @@ Each epoch, users vote on a list of eligible protocols that have applied to be i
 
 Protocols that receive incentives from the gauge votes are responsible for distributing these incentives strategically to their users to promote growth and adoption.
 
-* **Restrictions on Reward Usage:** Protocols cannot use the rewards to incentivize further governance participation. They must use the rewards to incentivize user actions that facilitate protocol growth, such as providing liquidity (LPs), trading activity, borrowing/minting from collateralized markets, etc.
+* **Restrictions on Reward Usage:** Protocols cannot use the rewards to incentivize further governance participation (OP bribes, incentivizing Mode voting meta-vaults with OP, etc). They must use the rewards to incentivize user actions that facilitate protocol growth, such as providing liquidity (LPs), trading activity, borrowing/minting from collateralized markets, etc.
 * **Strategic Allocation:** Protocols should use Merkl to distribute incentives. If other distribution channels are used, they must be clearly stated and include a way to communicate transparent metrics to ensure accountability and fairness.
 * **Driving Adoption:** This approach ensures that incentives are not only allocated to protocols but are also used to foster real growth and user engagement within the ecosystem.
 * **Initiate Campaigns Within 14 Days:** Protocols should set up campaigns to distribute rewards within 14 days of receiving incentives to remain eligible to receive rewards in future epochs. Length of campaigns are at the discretion of the protocols.
@@ -99,9 +99,9 @@ Each epoch consists of a detailed process flow to manage protocol applications, 
    Protocols apply for eligibility to be included as options in the gauge votes for the initial epoch.
 3. **3-Day Setup of Initial Gauges:**\
    The Governance Council reviews applications and sets up initial gauges that will be included in the voting process.
-4. **Warm-Up Period:** A minimum 3-day warm-up period precedes vote eligibility. Users who do not stake their veTKNs during this period will be ineligible to vote for the first epoch.\
+4. **Warm-Up Period:** A minimum 3-day warm-up period precedes vote eligibility. Warm ups can be up to 6 days if staking well before an upcoming epoch changeover.\
    \
-   Staking Deadline is 23:59:59 UTC the day before the voting period to allow enough time to warm up to vote
+   Staking Deadline is 23:59:59 UTC the day before the voting period as staked positions must at least be In Warmup prior to epoch changeover to be eligible
 5. **7-Day Voting Window (Epoch Voting):**\
    Users with staked and warmed up veTKNs vote on their preferred protocols during this period.
 6. **3-Day Eligibility Window for New Protocols (Future Epochs):**\
