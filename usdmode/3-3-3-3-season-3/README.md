@@ -92,6 +92,7 @@ Protocols that receive incentives from the gauge votes are responsible for distr
   * OP incentives distributed via channels other than Merkl/Fuul need to target assets on Mode and must be claimable/distributed on Optimism Mainnet. OP cannot be sold and then distributed (https://gov.optimism.io/t/collective-grant-policies/5833).\
 
 * **Strategic Allocation:** Protocols should use Merkl or Fuul to distribute incentives. If other distribution channels are used, they must be clearly stated and include a way to communicate transparent metrics to ensure accountability and fairness.
+* Address Used to Distribute: Protocols should use the same 0x address they listed on their Eligibility Form on the Forums ([https://forum.mode.network/c/governance/6](https://forum.mode.network/c/governance/6)) to distribute rewards. This ensures better transparency throughout the distribution pipeline.
 * **Driving Adoption:** This approach ensures that incentives are not only allocated to protocols but are also used to foster real growth and user engagement within the ecosystem.
 * **Initiate Campaigns Within 14 Days:** Protocols should set up campaigns to distribute rewards within 14 days of receiving incentives to remain eligible to receive rewards in future epochs. Length of campaigns are at the discretion of the protocols.
 
