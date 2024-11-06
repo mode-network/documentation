@@ -14,6 +14,10 @@ Check your wallet in  [this document](https://docs.google.com/spreadsheets/d/1nz
 
 ## Season 3
 
+{% hint style="success" %}
+Follow all the voting periods and important dates adding the [Governance Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE\&tmeid=MGI4Y2FybDV2M21pN200NjFsYmN0YmcyOXRfMjAyNDEwMzFUMTIwMDAwWiBjXzRhMWViM2UwY2YzMDZkMmIwMTI4YmRiNzU3Y2Y5ZjI1ZWRkYTRiN2MxZmY4ZTIyZDFhMGE0YTcwMTU1NTA2NmRAZw\&tmsrc=c\_4a1eb3e0cf306d2b0128bdb757cf9f25edda4b7c1ff8e22d1a0a4a701555066d%40group.calendar.google.com\&scp=ALL)
+{% endhint %}
+
 #### Introduction
 
 Welcome to Season 3, where we introduce a new system for community-driven decision-making using veTokens (Vote Escrow Tokens) and gauge voting. This governance model empowers users to participate actively in directing the distribution of community incentives, promoting the growth and sustainability of the Mode ecosystem.
