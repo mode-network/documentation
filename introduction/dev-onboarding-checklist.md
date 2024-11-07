@@ -14,7 +14,7 @@ Follow [this guide](https://mode.hashnode.dev/get-developer-role) on how to get 
 
 ### Mode Roadmap
 
-*   [ ] Add Mode Mainnet and Testnet to your wallet - [using-mode-mainnet.md](../mode-mainnet/using-mode-mainnet.md "mention")
+*   [ ] Add Mode Mainnet and Testnet to your wallet - [using-mode-mainnet.md](../user-guides/using-mode-mainnet.md "mention")
 
     * [ ] Mainnet Added
     * [ ] Testnet Added

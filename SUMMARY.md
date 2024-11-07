@@ -16,19 +16,19 @@
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
-## General Info
+## User Guides
 
-* [ℹ️ Network Details](mode-mainnet/network-details.md)
-* [🦊 Add Mode](mode-mainnet/using-mode-mainnet.md)
-* [🏡 Contract Addresses](mode-mainnet/mainnet-contract-addresses/README.md)
-  * [Tokens](mode-mainnet/mainnet-contract-addresses/token-addresses.md)
-  * [L1/L2 Mainnet Contracts](mode-mainnet/mainnet-contract-addresses/l1-l2-contracts.md)
-  * [Testnet Contracts](mode-testnet/testnet-contract-addresses.md)
-* [🌉 Bridge](mode-mainnet/bridge/README.md)
-  * [➡️ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
-  * [⬅️ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
-  * [🏗️ Bridging to Testnet](mode-testnet/bridging-to-mode-testnet.md)
-* [📤 Move to/from CEX](general-info/move-to-from-cex.md)
+* [ℹ️ Network Details](user-guides/network-details.md)
+* [🦊 Add Mode](user-guides/using-mode-mainnet.md)
+* [🏡 Contract Addresses](user-guides/mainnet-contract-addresses/README.md)
+  * [Tokens](user-guides/mainnet-contract-addresses/token-addresses.md)
+  * [L1/L2 Mainnet Contracts](user-guides/mainnet-contract-addresses/l1-l2-contracts.md)
+  * [Testnet Contracts](user-guides/mainnet-contract-addresses/testnet-contract-addresses.md)
+* [🌉 Bridge](user-guides/bridge/README.md)
+  * [➡️ Bridge to Mode](user-guides/bridge/bridge-to-mode.md)
+  * [⬅️ Bridge from Mode](user-guides/bridge/bridge-from-mode.md)
+  * [🏗️ Bridging to Testnet](user-guides/bridge/bridging-to-mode-testnet.md)
+* [📤 Move to/from CEX](user-guides/move-to-from-cex.md)
 
 ## Tools
 

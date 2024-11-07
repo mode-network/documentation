@@ -39,7 +39,7 @@ You can read [ZeroDev's documentation](https://zerodev.app/) to know more.
 {% hint style="danger" %}
 Before sending your transaction, please double check that:\
 \
-1\. You are sending supported funds to a supported chain. \
+1\. You are sending supported funds to a supported chain. Check all the combinations [here](https://zerodev.notion.site/ZeroDev-Global-Address-Supported-Tokens-137e616047d18088a11cc84ab56fc5cc).\
 \
 2\. You are sending the funds to your generated Global Address.\
 \

@@ -11,7 +11,7 @@ Before you continue with this tutorial you should:
 * Have [npm](https://www.npmjs.com/) and [node.js](https://nodejs.org/en) installed with the recommended versions.
 * Have an Ethereum wallet preferably [Metamask](https://metamask.io/) Installed.
 * Have a basic understanding of [Solidity](https://soliditylang.org/).
-* [Bridge](https://docs.mode.network/mode-testnet/bridging-to-mode-testnet) Sepolia Eth with Mode Network [bridging-to-mode-testnet.md](../../../mode-testnet/bridging-to-mode-testnet.md "mention")
+* [Bridge](https://docs.mode.network/mode-testnet/bridging-to-mode-testnet) Sepolia Eth with Mode Network [bridging-to-mode-testnet.md](../../../user-guides/bridge/bridging-to-mode-testnet.md "mention")
 
 {% hint style="success" %}
 If you want to jump straight to the code, go [here](sfs-register-a-smart-contract-with-hardhat.md#id-2.-writing-our-smart-contract)

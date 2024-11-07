@@ -8,7 +8,7 @@ description: How to bridge assets to Mode Testnet
 There are 2 ways to get Sepolia ETH on Mode Sepolia Testnet:\
 \
 1\. Bridging Sepolia ETH from Ethereum Sepolia Testnet to Mode's Sepolia Testnet.\
-2\. Using a Mode Sepolia ETH faucet. [testnet-faucets.md](../tools/testnet-faucets.md "mention")
+2\. Using a Mode Sepolia ETH faucet. [testnet-faucets.md](../../tools/testnet-faucets.md "mention")
 {% endhint %}
 
 ## Depositing Sepolia ETH
