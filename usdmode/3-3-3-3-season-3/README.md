@@ -266,4 +266,24 @@ Other differences:\
 
 </details>
 
+<details>
+
+<summary>We received very little incentives in the recent gauge votes - too little to simply incentivize pools. What are ways we can use these incentives to encourage growth?</summary>
+
+Fuul has several powerful competition-based strategies to make the smartest use of your incentives:
+
+1\. Liquidity Leaderboard: Reward the top 3 users who provide the most liquidity during a given period. This keeps the competition exciting and meaningful, as each user strives for the top spots.
+
+2\. Trading Competition: Distribute incentives among the top 3 users who trade the highest volume on your platform. This encourages active participation from traders and adds a sense of achievement for reaching the leaderboard.
+
+3\. Referral Competition: Allocate rewards to the top 3 users whose referrals bring in the most liquidity or trading volume. This keeps the focus on quality referrals and incentivizes community-driven growth.
+
+4\. Raffle Draw: Allow all users who meet a basic participation requirement—like providing liquidity or making a minimum trade—earn an entry into a prize draw. The raffle format levels the playing field, making it an attractive option for users of all levels.
+
+You can get started today at app.fuul.xyz or reach out directly to Juan with Fuul at @arditlgr.
+
+</details>
+
+
+
 Additional FAQs can be found here: [https://forum.mode.network/t/season-iii-faq/36](https://forum.mode.network/t/season-iii-faq/36)\
