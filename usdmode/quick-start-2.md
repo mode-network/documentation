@@ -7,7 +7,7 @@ Mode’s tokenomics have been designed to decentralize Mode and reward users and
 Ticker: $MODE \
 Contract Address: [0xDfc7C877a950e49D2610114102175A06C2e3167a](https://explorer.mode.network/token/0xDfc7C877a950e49D2610114102175A06C2e3167a) \
 Total Supply: 10,000,000,000 \
-Initial Circulating Supply: 1,300,000,000\
+Current Circulating Supply: 2,400,000,000 \
 
 
 **MODE Token Utility**
@@ -54,7 +54,7 @@ Mode core contributors that contribute to developing the Mode ecosystem
 
 **Token Distribution Details**
 
-At genesis there will be an initial total supply of 10,000,000,000 tokens. The token supply is fixed.&#x20;
+Total supply of 10,000,000,000 tokens. The token supply is fixed.&#x20;
 
 In Year 1, Mode Foundation's core goal is to distribute tokens to users and developers that grow the ecosystem in addition to developing the onchain treasury. From Year 2 onwards governance will manage distributions.&#x20;
 
