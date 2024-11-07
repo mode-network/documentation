@@ -1,12 +1,10 @@
 ---
 description: >-
-  In this page you will find instructions on how to send and receive funds from
-  different centralized exchanges
+  Deposit or Withdraw USDC, USDT or ETH between your favorite centralized
+  exchanges and Mode!
 ---
 
 # 📤 Move to/from CEX
-
-Deposit or Withdraw USDC, USDT or ETH between your favorite centralized exchanges and Mode! Jump straight to the instructions -> [here](move-to-from-cex.md#from-cex-to-mode).
 
 ## Introduction - Global Addresses
 
