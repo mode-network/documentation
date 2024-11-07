@@ -222,7 +222,7 @@ When a withdrawal request is made, we first check the user is not voting and att
 veBPT is acquired by staking 80/20 MODE/ETH LP on [Balancer](https://balancer.fi/pools/mode/v2/0x7c86a44778c52a0aad17860924b53bf3f35dc932000200000000000000000007). So if a user has $100 staked, their position would be $80 in MODE and $20 in ETH.\
 \
 Other differences:\
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 \*240k allocated for voter rewards\
 

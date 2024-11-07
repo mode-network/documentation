@@ -28,6 +28,7 @@
   * [➡️ Bridge to Mode](mode-mainnet/bridge/bridge-to-mode.md)
   * [⬅️ Bridge from Mode](mode-mainnet/bridge/bridge-from-mode.md)
   * [🏗️ Bridging to Testnet](mode-testnet/bridging-to-mode-testnet.md)
+* [📤 Move to/from CEX](general-info/move-to-from-cex.md)
 
 ## Tools
 
