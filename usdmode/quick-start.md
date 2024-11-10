@@ -35,7 +35,7 @@ _Please be vigilant and do not click on any links from 3rd parties. The official
 
 The minimum points needed to qualify is 250 points
 
-Any user that had pre-check points but did not bridge to Mode did no meet the minimum requirements
+Any user that had pre-check points but did not bridge to Mode did not meet the minimum requirements
 
 </details>
 
