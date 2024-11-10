@@ -1,4 +1,4 @@
-# 🟡 MODE Tokenonomics
+# 🟡 MODE Tokenomics
 
 Mode’s tokenomics have been designed to decentralize Mode and reward users and developers that contribute to growing the Mode ecosystem.
 
