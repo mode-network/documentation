@@ -2,7 +2,7 @@
 
 ## [Tenderly](https://tenderly.co/)
 
-Tenderly offers a wide range of dev tooling raging from simulation APIs to RPC and more. You can find a list of all their products here: [https://docs.tenderly.co/products](https://docs.tenderly.co/products) .
+Tenderly offers a wide range of dev tooling ranging from simulation APIs to RPC and more. You can find a list of all their products here: [https://docs.tenderly.co/products](https://docs.tenderly.co/products) .
 
 ***
 
@@ -40,7 +40,7 @@ Check the docs: [https://docs.zerodev.app](https://docs.zerodev.app)
 {% hint style="info" %}
 When using ZeroDev on Mode, make sure to:
 
-* Append `?provider=CONDUIT` to the bundler you URL you get from the ZeroDev dashboard.
+* Append `?provider=CONDUIT` to the bundler your URL you get from the ZeroDev dashboard.
 * When calling [createKernelAccount](https://docs.zerodev.app/sdk/core-api/create-account#create-a-kernel-account), specify `useMetaFactory: false`.
 {% endhint %}
 
