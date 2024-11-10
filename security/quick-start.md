@@ -4,7 +4,7 @@
 
 Mode is an OP Stack L2 and a key part of Optimism Superchain. Mode runs the OP Stack mainnet configuration in partnership with Optimism.&#x20;
 
-In return for ongoing technical and product support from Optimism, Mode contributes sequencer fees, and reseach and innovation to the OP Collective.
+In return for ongoing technical and product support from Optimism, Mode contributes sequencer fees, and research and innovation to the OP Collective.
 
 ### Mainnet Multisig <a href="#op-mainnet-multisig" id="op-mainnet-multisig"></a>
 
