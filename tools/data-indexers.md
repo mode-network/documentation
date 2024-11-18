@@ -10,7 +10,7 @@ Deploy a subgraph: [https://docs.goldsky.com/subgraphs/deploying-subgraphs](http
 
 ## [The Graph](https://thegraph.com/)
 
-The Graph is an indexing protocol that provides an easy way to query blockchain data through APIs known as subgraphs. Anyone can create or query subgraphs, making the data available to the entire ecosystem. Using GraphQL, you can specify the exact fields you want to query.
+The Graph is an indexing protocol that provides an easy way to query blockchain data through APIs known as subgraphs. Anyone can create or query subgraphs, making the data available to the entire ecosystem. With GraphQL, you can specify the exact fields you want to query.
 
 The Graph’s infrastructure relies on a decentralized network of indexers, enabling your dApp to become truly decentralized.
 
