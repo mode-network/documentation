@@ -5,7 +5,7 @@ hidden: true
 
 # 🌱 Staking
 
-Staking is enabled for $MODE and the MODE/USDC Balancer Pool Token giving aditional benefits for the current Season 2.\
+Staking is enabled for $MODE and the MODE/USDC Balancer Pool Token giving additional benefits for the current Season 2.\
 \
 By staking your $MODE or MODE/USDC Balancer Pool Token you'll get points boosters and OP rewards. Please note that unstaking has a cooldown period of 7 days.&#x20;
 
