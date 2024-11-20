@@ -36,3 +36,10 @@ Automata now supports Mode mainnet via their 1RPC, this introduces an extra laye
 dRPC is decentralised RPC network that enhances security, reliability, and cost-efficiency for Web3 companies of all sizes. We are building the most reliable and cost-efficient Data providing solution via a decentralized platform. Learn more about dRPC [here](https://drpc.org/chainlist/mode).
 
 RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
+
+## thirdweb
+
+thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs&utm_medium=docs).
+
+RPC Endpoint: [https://thirdweb.com/mode](https://thirdweb.com/mode?utm_source=modedocs&utm_medium=docs)
+
