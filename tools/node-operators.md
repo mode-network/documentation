@@ -6,14 +6,14 @@ If you want to run a node for Mode you can follow these instructions:\
 [https://github.com/mode-network/rollup-node](https://github.com/mode-network/rollup-node)
 
 {% hint style="warning" %}
-**UPCOMING GRANITE UPDATE -** `Wed Jul 10 16:00:01 UTC 2024`
+**UPCOMING HOLOCENE UPDATE**
 
-the Optimism Granite Hard Fork is scheduled on mainnet next week on `Wed 11 Sep 2024 16:00:01 UTC` . More info [here](https://docs.optimism.io/builders/notices/granite-changes).For external nodes/integrators:\
+Optimism Fork (Holocene)​ will be activated on Mode testnet on - ​`Tue Nov 26 15:00:00 UTC 2024`\
+Prior to the update, please confirm the following on external nodes/integrators:
 
-
-* run op-geth >= [v1.101408.0](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101408.0)
-* run op-node >= [v1.9.1](https://github.com/ethereum-optimism/optimism/releases/tag/v1.9.1) (for alt-da, consider respective forks like celestia/eigen)
-* set on op-geth and op-node the flag `--override.granite=1726070401`
+* op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T)
+* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
+* set on both the flag  `--override.holocene=1732633200`
 {% endhint %}
 
 ### Snapshots
@@ -31,6 +31,31 @@ Tuesday 3rd September **(latest)** -&#x20;
 {% embed url="https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz" %}
 
 ## Past updates
+
+<details>
+
+<summary>HOLOCENE</summary>
+
+Optimism Fork (Holocene)​ will be activated on your OP testnet next Tuesday - ​`Tue Nov 26 15:00:00 UTC 2024`\
+Prior to the update, please confirm the following on external nodes/integrators:
+
+* op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T)
+* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
+* set on both the flag  `--override.holocene=1732633200`
+
+</details>
+
+<details>
+
+<summary><strong>GRANITE UPDATE</strong> </summary>
+
+the Optimism Granite Hard Fork happened on `Wed 11 Sep 2024 16:00:01 UTC` . More info [here](https://docs.optimism.io/builders/notices/granite-changes).For external nodes/integrators:
+
+* run op-geth >= [v1.101408.0](https://github.com/ethereum-optimism/op-geth/releases/tag/v1.101408.0)
+* run op-node >= [v1.9.1](https://github.com/ethereum-optimism/optimism/releases/tag/v1.9.1) (for alt-da, consider respective forks like celestia/eigen)
+* set on op-geth and op-node the flag `--override.granite=1726070401`
+
+</details>
 
 <details>
 
