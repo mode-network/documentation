@@ -4,7 +4,7 @@
 
 * [🟡 Introducing Mode](README.md)
 * [🕐 Quick start](introduction/quick-start.md)
-* [✅ AIFi Developer Roadmap](introduction/dev-onboarding-checklist.md)
+* [✅ AI Developer Roadmap](introduction/dev-onboarding-checklist.md)
 
 ## $MODE
 
@@ -70,15 +70,15 @@
 
 ## Security
 
-* [🔓 Mode L2 Security Model](security/quick-start.md)
-* [⛑️ Optimism Bug Bounty](security/quick-start-1.md)
-* [Security Upgrades](security/security-upgrades/README.md)
-  * [01/08/2024 Bridge Upgrade Fund Rescue](security/security-upgrades/01-08-2024-bridge-upgrade-fund-rescue.md)
-  * [06/08/2024 Mode Mainnet Key Handover](security/security-upgrades/06-08-2024-mode-mainnet-key-handover.md)
-
 ## Other Docs
 
-* [🔐 Audits](other-docs/audits.md)
+* [🔓 General Security](other-docs/general-security/README.md)
+  * [🔓 Mode L2 Security Model](other-docs/general-security/quick-start.md)
+  * [⛑️ Optimism Bug Bounty](other-docs/general-security/quick-start-1.md)
+  * [Security Upgrades](other-docs/general-security/security-upgrades/README.md)
+    * [01/08/2024 Bridge Upgrade Fund Rescue](other-docs/general-security/security-upgrades/01-08-2024-bridge-upgrade-fund-rescue.md)
+    * [06/08/2024 Mode Mainnet Key Handover](other-docs/general-security/security-upgrades/06-08-2024-mode-mainnet-key-handover.md)
+  * [🔐 Audits](other-docs/general-security/audits.md)
 * [🫂 Community dApps](other-docs/community-dapps.md)
 * [🔗 Official Links](other-docs/official-links.md)
 * [🤘 Branding Guidelines](other-docs/branding-guidelines.md)

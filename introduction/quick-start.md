@@ -8,7 +8,7 @@ Let’s see how to deploy a smart contract on Mode using the [Remix IDE](https:/
 
 Before getting started:
 
-1. Follow [Broken link](broken-reference "mention") for the step-by-step on how to add Mode testnet to [Metamask](https://metamask.io/download/).
+1. Follow [#testnet](../user-guides/using-mode-mainnet.md#testnet "mention") for the step-by-step on how to add Mode testnet to [Metamask](https://metamask.io/download/).
 2. This guide assumes you have got Sepolia ETH and bridged to the Mode Testnet Network. Learn how to do that in [testnet-faucets.md](../tools/testnet-faucets.md "mention")
 
 We are ready to get started!
@@ -40,10 +40,6 @@ contract Storage {
     uint256 number;
 
     constructor(){
-      // This address is the address of the SFS contract on testnet
-      Sfs sfsContract = Sfs(0xBBd707815a7F7eb6897C7686274AFabd7B579Ff6); 
-      // Registers this contract and assigns the NFT to the deployer of this contract
-      sfsContract.register(msg.sender); 
     }
     
     function store(uint256 num) public {
@@ -56,13 +52,6 @@ contract Storage {
 }
 ```
 {% endcode %}
-
-If you know a little solidity, you must already notice something else in this contract. This contract is being registered to the SFS in the constructor. We won't go over this in depth in this tutorial, please go to [sfs-sequencer-fee-sharing](../build-on-mode/sfs-sequencer-fee-sharing/ "mention")if you want to know more about how it works.
-
-
-
-This contract just let's you store a number and then read what that number is while also registering it in the SFS registry.\
-
 
 ## Steps to deploy
 
