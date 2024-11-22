@@ -1,14 +1,13 @@
-# 🟡 MODE Tokenomics
+# 🟡 MODE Tokenonomics
 
 Mode’s tokenomics have been designed to decentralize Mode and reward users and developers that contribute to growing the Mode ecosystem.
 
 **MODE Token**
 
-Ticker: $MODE \
-Contract Address: [0xDfc7C877a950e49D2610114102175A06C2e3167a](https://explorer.mode.network/token/0xDfc7C877a950e49D2610114102175A06C2e3167a) \
-Total Supply: 10,000,000,000 \
-Current Circulating Supply: 2,400,000,000 \
-
+Ticker: $MODE\
+Contract Address: [0xDfc7C877a950e49D2610114102175A06C2e3167a](https://explorer.mode.network/token/0xDfc7C877a950e49D2610114102175A06C2e3167a)\
+Total Supply: 10,000,000,000\
+Current Circulating Supply: 2,500,000,000 \\
 
 **MODE Token Utility**
 
@@ -54,9 +53,8 @@ Mode core contributors that contribute to developing the Mode ecosystem
 
 **Token Distribution Details**
 
-Total supply of 10,000,000,000 tokens. The token supply is fixed.&#x20;
+Total supply of 10,000,000,000 tokens. The token supply is fixed.
 
-In Year 1, Mode Foundation's core goal is to distribute tokens to users and developers that grow the ecosystem in addition to developing the onchain treasury. From Year 2 onwards governance will manage distributions.&#x20;
+In Year 1, Mode Foundation's core goal is to distribute tokens to users and developers that grow the ecosystem in addition to developing the onchain treasury. From Year 2 onwards governance will manage distributions.
 
-The Mode foundation estimates the total supply of circulating MODE tokens to increase as [detailed in this sheet (opens new window).](https://docs.google.com/spreadsheets/d/1iU4irsKAIhLdNqkJCC00gMmwVZD\_L9nxJOsYqk9Dl9c/edit#gid=470961921)
-
+The Mode foundation estimates the total supply of circulating MODE tokens to increase as [detailed in this sheet (opens new window).](https://docs.google.com/spreadsheets/d/1iU4irsKAIhLdNqkJCC00gMmwVZD_L9nxJOsYqk9Dl9c/edit#gid=470961921)
