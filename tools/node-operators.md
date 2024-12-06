@@ -8,12 +8,12 @@ If you want to run a node for Mode you can follow these instructions:\
 {% hint style="warning" %}
 **UPCOMING HOLOCENE UPDATE**
 
-Optimism Fork (Holocene)​ will be activated on Mode testnet on - ​`Tue Nov 26 15:00:00 UTC 2024`\
-Prior to the update, please confirm the following on external nodes/integrators:
+Optimism Fork (Holocene) will be activated on ​Mainnet​ on ​`Thu 09 Jan 2025 18:00:01 UTC`Prior to the update, for nodes/integrators:\
 
-* op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T)
-* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
-* set on both the flag  `--override.holocene=1732633200`
+
+* run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
+* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
+* set on both the flag  `--override.holocene=1736445601`
 {% endhint %}
 
 ### Snapshots
@@ -36,12 +36,17 @@ Tuesday 3rd September **(latest)** -&#x20;
 
 <summary>HOLOCENE</summary>
 
-Optimism Fork (Holocene)​ will be activated on your OP testnet next Tuesday - ​`Tue Nov 26 15:00:00 UTC 2024`\
-Prior to the update, please confirm the following on external nodes/integrators:
+* run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
+* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
+* set on both the flag  `--override.holocene=1736445601`
 
-* op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T)
-* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm\_campaign\_id=84123be8-439a-4029-9f1d-8b39eb7cc24b\&utm\_slack\_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
-* set on both the flag  `--override.holocene=1732633200`
+Optimism Fork (Holocene) will be activated on your ​Mainnet​ on ​`Thu 09 Jan 2025 18:00:01 UTC`Prior to the update, please confirm the following on external nodes/integrators:
+
+* run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
+* run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
+* set on both the flag  `--override.holocene=1736445601`\
+  \
+  If you are not using the previous fork, Granite, on your external nodes (check the following flags is set ​`--override.granite`​), please reach out. In the case, you might need to enable the Granite hard fork flags two days before ​`Tue 07 Jan 2025 18:00:01 UTC`​. You can use the same software version and configure it with ​`--override.granite=1736272801`
 
 </details>
 
