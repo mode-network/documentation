@@ -35,4 +35,4 @@ Mode has implemented Optimism's Bedrock upgrade which has significantly reduced 
 
 ### [​Contributing to the Superchain](https://docs.base.org/#open-source)
 
-Mode is powered by the [OP Stack](https://stack.optimism.io/), in collaboration with Optimism. We aim to contribute to growing Optimism's Superchain ecosystem as the main DeFi hub.
+Mode is powered by the [OP Stack](https://stack.optimism.io/), in collaboration with Optimism. We aim to contribute to growing Optimism's Superchain ecosystem as the main Agentic DeFi hub.

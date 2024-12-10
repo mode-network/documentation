@@ -4,31 +4,17 @@
 
 * [🟡 Introducing Mode](README.md)
 * [🕐 Quick start](introduction/quick-start.md)
-* [✅ AI Developer Roadmap](introduction/dev-onboarding-checklist.md)
+* [✅ AI Agent Dev Roadmap](introduction/dev-onboarding-checklist.md)
 
-## $MODE
+## AI AGENTS
 
-* [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
-* [1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
-* [2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
-* [3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3](usdmode/3-3-3-3-season-3/README.md)
-  * [Governance Contract Addresses](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f)
-* [🌱 Staking](usdmode/staking.md)
-* [🎯 Mode Points Design](usdmode/mode-points-design.md)
-
-## User Guides
-
-* [ℹ️ Network Details](user-guides/network-details.md)
-* [🦊 Add Mode](user-guides/using-mode-mainnet.md)
-* [🏡 Contract Addresses](user-guides/mainnet-contract-addresses/README.md)
-  * [Tokens](user-guides/mainnet-contract-addresses/token-addresses.md)
-  * [L1/L2 Mainnet Contracts](user-guides/mainnet-contract-addresses/l1-l2-contracts.md)
-  * [Testnet Contracts](user-guides/mainnet-contract-addresses/testnet-contract-addresses.md)
-* [🌉 Bridge](user-guides/bridge/README.md)
-  * [➡️ Bridge to Mode](user-guides/bridge/bridge-to-mode.md)
-  * [⬅️ Bridge from Mode](user-guides/bridge/bridge-from-mode.md)
-  * [🏗️ Bridging to Testnet](user-guides/bridge/bridging-to-mode-testnet.md)
-* [📤 Move to/from CEX](user-guides/move-to-from-cex.md)
+* [🌅 The Rise of AI Agents](ai-agents/the-rise-of-ai-agents.md)
+* [🤷 What are AI Agents?](ai-agents/what-are-ai-agents.md)
+* [🏗️ Building your first agent](ai-agents/building-your-first-agent.md)
+* [🛠️ AI Tooling](ai-agents/ai-tooling/README.md)
+  * [AI Audits](ai-agents/ai-tooling/ai-audits.md)
+  * [AI APIs](ai-agents/ai-tooling/ai-apis.md)
+  * [Frameworks](ai-agents/ai-tooling/frameworks.md)
 
 ## Tools
 
@@ -42,7 +28,6 @@
 * [⛓️ Interoperability](tools/interoperability.md)
 * [⁉️ Randomness](tools/randomness.md)
 * [🌎 General Tooling](tools/general-tooling.md)
-* [⌨️ Node Operators](tools/node-operators.md)
 
 ## Tutorials
 
@@ -68,6 +53,30 @@
   * [Using Hardhat](build-on-mode/verifying-your-smart-contract/using-hardhat.md)
   * [Using Foundry](build-on-mode/verifying-your-smart-contract/using-foundry.md)
 
+## User Guides
+
+* [ℹ️ Network Details](user-guides/network-details.md)
+* [🦊 Add Mode](user-guides/using-mode-mainnet.md)
+* [🏡 Contract Addresses](user-guides/mainnet-contract-addresses/README.md)
+  * [Tokens](user-guides/mainnet-contract-addresses/token-addresses.md)
+  * [L1/L2 Mainnet Contracts](user-guides/mainnet-contract-addresses/l1-l2-contracts.md)
+  * [Testnet Contracts](user-guides/mainnet-contract-addresses/testnet-contract-addresses.md)
+* [🌉 Bridge](user-guides/bridge/README.md)
+  * [➡️ Bridge to Mode](user-guides/bridge/bridge-to-mode.md)
+  * [⬅️ Bridge from Mode](user-guides/bridge/bridge-from-mode.md)
+  * [🏗️ Bridging to Testnet](user-guides/bridge/bridging-to-mode-testnet.md)
+* [📤 Move to/from CEX](user-guides/move-to-from-cex.md)
+
+## $MODE
+
+* [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
+* [1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
+* [2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
+* [3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3](usdmode/3-3-3-3-season-3/README.md)
+  * [Governance Contract Addresses](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f)
+* [🌱 Staking](usdmode/staking.md)
+* [🎯 Mode Points Design](usdmode/mode-points-design.md)
+
 ## Other Docs
 
 * [🔓 General Security](other-docs/general-security/README.md)
@@ -80,3 +89,4 @@
 * [🫂 Community dApps](other-docs/community-dapps.md)
 * [🔗 Official Links](other-docs/official-links.md)
 * [🤘 Branding Guidelines](other-docs/branding-guidelines.md)
+* [⌨️ Node Operators](other-docs/node-operators.md)

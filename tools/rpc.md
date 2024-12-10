@@ -1,7 +1,7 @@
 # 🖥️ RPC
 
 {% hint style="success" %}
-If your project needs better performance you can try running your own node. Check all the information here: [node-operators.md](node-operators.md "mention")
+If your project needs better performance you can try running your own node. Check all the information here: [node-operators.md](../other-docs/node-operators.md "mention")
 {% endhint %}
 
 ## Public RPC (Archival node)
