@@ -12,6 +12,10 @@ Thirdweb is a complete web3 development framework that provides everything you n
 This guide assumes you have got Sepolia ETH and bridged to the Mode Testnet Network.&#x20;
 {% endhint %}
 
+{% hint style="info" %}
+You can use deploy pre-built contracts direct from the [thirdweb dashboard](https://portal.thirdweb.com/contracts/explore/overview?utm_source=modedocs&utm_medium=docs) as another option.&#x20;
+{% endhint %}
+
 ## 1. Download the ThirdWeb CLI
 
 We’ll go through the steps of installing and running the Thirdweb CLI, but if you encounter any issues with these steps, please refer to the [official documentation](https://portal.thirdweb.com/cli/create).&#x20;
