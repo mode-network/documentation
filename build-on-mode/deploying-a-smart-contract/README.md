@@ -15,3 +15,7 @@ Hardhat is a framework for developing smart contracts. You can use Hardhat to de
 ## [Thirdweb CLI](https://portal.thirdweb.com/cli)
 
 Thirdweb CLI is an interactive command line interface for creating tools using thirdweb infrastructure. You can learn how to deploy a smart contract to Mode using thirdweb CLI [here](using-thirdweb.md).
+
+## [Remix IDE](https://remix.ethereum.org/)
+
+Remix IDE is an open-source, web-based tool for developing smart contracts using the Solidity programming language.Learn how to deploy your smart contracts to Mode using Remix [here](using-remix.md).
