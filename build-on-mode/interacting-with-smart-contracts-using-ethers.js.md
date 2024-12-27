@@ -65,7 +65,7 @@ export default App;
 In this file are importing <mark style="color:orange;">`useState`</mark> and <mark style="color:orange;">`useEffect`</mark> which we'll be needing later in this tutorial, we’re also importing <mark style="color:orange;">`ethers`</mark> to enable us to make a connection to our smart contract.
 
 \
-The next thing we need to do is to declare our contract address and ABI file, there are different ways get the contract ABI but if you deployed you smart contract using foundry, you can find your ABI check the following directory:
+The next thing we need to do is to declare our contract address and ABI file, there are different ways get the contract ABI but if you deployed your smart contract using foundry, you can find your ABI check the following directory:
 
 ./out/MyContract.sol/MyContract.json.
 
@@ -115,7 +115,7 @@ export default App;
 ```
 {% endcode %}
 
-We added the contract address, the abi, and a few states that we will need for our dApp to work. Don't worry about all these React states, they are particular for this app so you don't need to fully understand them. Please remember to paste you ABI in your App.js file.
+We added the contract address, the abi, and a few states that we will need for our dApp to work. Don't worry about all these React states, they are particular for this app so you don't need to fully understand them. Please remember to paste your ABI in your App.js file.
 
 {% hint style="info" %}
 Usually we would save the ABI in a different file and then import it but in this case we'll just paste all the ABI JSON in our App.js file.
