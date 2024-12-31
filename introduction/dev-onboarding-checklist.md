@@ -27,7 +27,6 @@ Follow [this guide](https://mode.hashnode.dev/get-developer-role) on how to get 
 - [ ] Deploy a smart contract on Mode testnet&#x20;
   * [ ] [quick-start.md](quick-start.md "mention")
   * [ ] [deploying-a-smart-contract](../build-on-mode/deploying-a-smart-contract/ "mention")
-  * [ ] [register-a-smart-contract](../build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/ "mention")
   * [ ] _**EXTRA:**_[verifying-your-smart-contract](../build-on-mode/verifying-your-smart-contract/ "mention")
 
 </details>

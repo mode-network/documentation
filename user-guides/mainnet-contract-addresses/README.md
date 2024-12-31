@@ -6,7 +6,7 @@ description: Addresses to the main contract addresses
 
 In this section you will find useful contract addresses you may need while developing on Mode. \
 \
-L1/L2 Contracts are the main contacts from the L1 (Ethereum) and the L2 (Mode) such as the SFS contract, L1Standard Bridge, and more.
+L1/L2 Contracts are the main contacts from the L1 (Ethereum) and the L2 (Mode) such as the L1Standard Bridge, and more.
 
 Token Addresses has all the official tokens deployed by Mode team, please be careful with other tokens not listed here as they may not be legitimate.
 

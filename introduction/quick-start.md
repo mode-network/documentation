@@ -21,7 +21,7 @@ We are ready to get started!
 
 For the sake of this tutorial, we will be deploying the ‘1\_Storage.sol’ smart contract that comes as an example in Remix, but you can use any of your code.
 
-We added a few lines of code to register this contract on the SFS. You can copy and then paste this in Remix or use your own contract code.\
+You can copy and then paste this in Remix or use your own contract code.\
 \
 Here's the sample code:
 
@@ -30,10 +30,6 @@ Here's the sample code:
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity ^0.8.20;
-
-interface Sfs {
-    function register(address _recipient) external returns (uint256 tokenId);
-}
 
 contract Storage {
 
