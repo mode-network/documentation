@@ -6,12 +6,13 @@ If your project needs better performance you can try running your own node. Chec
 
 ## Public RPC (Archival node)
 
-Our public RPC is a full archive node and should be enough for most use cases:\
-
+Our public RPC is a full archive node and should be enough for most use cases:\\
 
 RPC Endpoint: [https://mainnet.mode.network/](https://mainnet.mode.network/)
 
 RPC & websocket: [https://app.conduit.xyz/published/view/mode-mainnet-0](https://app.conduit.xyz/published/view/mode-mainnet-0)
+
+Testnet RPC: [https://sepolia.mode.network/](https://sepolia.mode.network/)
 
 ## Tenderly
 
@@ -39,7 +40,6 @@ RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
 
 ## thirdweb
 
-thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs&utm_medium=docs).
+thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs).
 
-RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs&utm_medium=docs)
-
+RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs)
