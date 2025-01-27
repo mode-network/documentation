@@ -6,16 +6,15 @@ description: >-
 
 # Quickstart
 
+## How to Run Mode Plugin from GOAT
 
-# How to Run Mode Plugin from GOAT
+### Prerequisites
 
-## Prerequisites
+* [Node.js v20.12.2](https://nodejs.org/) or higher.
+* [Turbo](https://turbo.build/).
+* [PNPM](https://pnpm.io/).
 
-*   [Node.js v20.12.2](https://nodejs.org/) or higher.
-*   [Turbo](https://turbo.build/).
-*   [PNPM](https://pnpm.io/).
-
-## Steps
+### Steps
 
 1. Clone the GOAT repository:
 
@@ -24,7 +23,6 @@ git clone https://github.com/goat-sdk/goat.git
 ```
 
 2. Open the repository in your preferred code editor (we'll use VSCode in this example).
-
 3. Install dependencies and build the project:
 
 * Since we are going to test the Mode plugin, which is in the TypeScript folder, we first need to navigate to that directory:
@@ -47,6 +45,7 @@ pnpm build
 ```bash
 cd examples/vercel-ai/mode
 ```
+
 * Copy the environment configuration file:
 
 ```bash
@@ -54,11 +53,10 @@ cp .env.template .env
 ```
 
 * Fill in the .env file with the following values:
-    
-    * OPENAI_API_KEY: Obtained from [OpenAI](https://platform.openai.com/settings/organization/api-keys).
-    * WALLET_PRIVATE_KEY: Your wallet's private key. It's important to ensure that the key starts with 0x to avoid execution errors.
+  * OPENAI\_API\_KEY: Obtained from [OpenAI](https://platform.openai.com/settings/organization/api-keys).
+  * WALLET\_PRIVATE\_KEY: Your wallet's private key. It's important to ensure that the key starts with 0x to avoid execution errors.
 
-5. Rebuild the project: 
+5. Rebuild the project:
 
 * Navigate back to the goat/typescript directory and run:
 
@@ -66,7 +64,6 @@ cp .env.template .env
 pnpm install
 pnpm build
 ```
-
 
 6. Run the Mode plugin:
 
@@ -87,6 +84,5 @@ npx ts-node index.ts
 ```bash
 Enter your prompt (or "exit" to quit):
 ```
-
 
 Ready! You can now interact with the Mode plugin in GOAT.
