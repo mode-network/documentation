@@ -11,6 +11,8 @@
 * [🌅 The Rise of AI Agents](ai-agents/the-rise-of-ai-agents.md)
 * [🤷 What are AI Agents?](ai-agents/what-are-ai-agents.md)
 * [🏗️ Building your first agent](ai-agents/building-your-first-agent.md)
+* [Tutorials](ai-agents/tutorials/README.md)
+  * [Quickstart](ai-agents/tutorials/quickstart.md)
 * [🛠️ AI Tooling](ai-agents/ai-tooling/README.md)
   * [AI Audits](ai-agents/ai-tooling/ai-audits.md)
   * [AI APIs](ai-agents/ai-tooling/ai-apis.md)
@@ -70,9 +72,9 @@
 ## $MODE
 
 * [🟡 MODE Tokenonomics](usdmode/quick-start-2.md)
-* [1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
-* [2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
-* [3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3](usdmode/3-3-3-3-season-3/README.md)
+* [1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ 1️⃣ Season 1](usdmode/quick-start.md)
+* [2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ 2️⃣ Season 2](usdmode/quick-start-1.md)
+* [3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ 3️⃣ Season 3](usdmode/3-3-3-3-season-3/README.md)
   * [Governance Contract Addresses](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f)
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
