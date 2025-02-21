@@ -37,9 +37,9 @@ Price feeds on Mode mainnet:\
 
 ## [Supra](https://supraoracles.com/)
 
-[Supra](https://supraoracles.com) is a novel, high-throughput Oracle & IntraLayer: A vertically integrated toolkit of cross-chain solutions (data oracles, asset bridges, automation network, and more) that interlink all blockchains, public (L1s and L2s) or private (enterprises).\
+[Supra](https://supra.com) is a novel, high-throughput Oracle & IntraLayer: A vertically integrated toolkit of cross-chain solutions (data oracles, asset bridges, automation network, and more) that interlink all blockchains, public (L1s and L2s) or private (enterprises).\
 \
 Supra Pull Oracle adddess on Mode Mainnet:\
 [https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract](https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract)
 
-For more details, check out [Supra developer docs](https://supraoracles.com/docs/overview/).
+For more details, check out [Supra developer docs](https://docs.supra.com/oracles/overview).
