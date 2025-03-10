@@ -10,7 +10,7 @@ description: >-
 
 ### Prerequisites
 
-* [Node.js v20.12.2](https://nodejs.org/) or higher.
+* [Node.js >=20.12.2](https://nodejs.org/) and <21.   
 * [Turbo](https://turbo.build/).
 * [PNPM](https://pnpm.io/).
 
