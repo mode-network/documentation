@@ -6,6 +6,10 @@ icon: robot
 
 The AI Terminal is your assistant with knowledge of the world and access to a growing range of context protocols to help you make onchain transactions on Mode.
 
+{% hint style="success" %}
+Ask the terminal any questions you may have and if you can't find the answer to your question, please let us know in telegram or in Discord.
+{% endhint %}
+
 To use the AI Terminal, you can ask it for any information using natural language. As we’re continuously building out its capacity, you might run into certain limitations. If you do, please let us know! Still, you can use the recommended prompts in the app or follow some of the examples in the chart below. New functionalities are being added constantly.
 
 The AI Terminal works by interpreting your prompt using natural language processing by leveraging AI models. The application has access to a growing set of context protocols through the GOAT SDK. After analyzing your prompt, it’s using reasoning to plan what context protocols to use. \
