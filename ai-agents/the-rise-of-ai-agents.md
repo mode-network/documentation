@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🌅 The Rise of AI Agents
 
 ## The Rise of AI Agents

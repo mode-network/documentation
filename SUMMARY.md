@@ -9,6 +9,7 @@
 ## AI AGENTS
 
 * [🌅 The Rise of AI Agents](ai-agents/the-rise-of-ai-agents.md)
+* [Mode AI Terminal](ai-agents/mode-ai-terminal.md)
 * [🤷 What are AI Agents?](ai-agents/what-are-ai-agents.md)
 * [🏗️ Building your first agent](ai-agents/building-your-first-agent.md)
 * [Tutorials](ai-agents/tutorials/README.md)

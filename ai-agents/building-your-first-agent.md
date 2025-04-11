@@ -16,18 +16,3 @@ Eliza is a powerful framework designed to simplify the creation of AI agents. It
 
 GOAT, or the Great Onchain Agent Toolkit, is an open-source framework that equips AI agents with blockchain capabilities, such as managing wallets, trading tokens, and interacting with smart contracts. Within Eliza, GOAT functions as a plugin, significantly enhancing the framework by enabling agents to perform a wide range of on-chain actions seamlessly. This integration allows Eliza agents to autonomously execute blockchain operations. With GOAT, Eliza agents can now manage wallets, trade tokens, and interact with smart contracts, and protocols.
 
-### Upcoming Tutorial
-
-A detailed step-by-step tutorial on building your first AI agent with Eliza and GOAT is in the works. This guide will cover everything from setting up your environment to creating custom plugins and actions.
-
-### Additional Resources
-
-In the meantime, we recommend watching episodes of the AI Dev School, where Shaw demonstrates how to create new plugins and actions.
-
-Part 1: [General Eliza concepts](https://www.youtube.com/watch?v=ArptLpQiKfI)
-
-Part 2: [Plugins & More](https://www.youtube.com/watch?v=XenGeAcPAQo)
-
-Part 3: [Evaluators](https://www.youtube.com/watch?v=Y1DiqSVy4aU)
-
-Stay tuned for more updates and resources to help you get started with AI agent development.

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🕐 Quick start
 
 In this section we'll get you deploying a sample contract on Mode in less than 10 minutes.\
@@ -63,11 +67,7 @@ contract Storage {
 Make sure to open the advanced configurations and setting the EVM version to London. This is to avoid an issue with the <mark style="color:orange;">`PUSH0`</mark> opcode. You can read more on this specification with all Optimism chains [here](https://community.optimism.io/docs/developers/build/differences/#opcode-differences).
 {% endhint %}
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image (16).png" alt="" width="371"><figcaption><p>Solidity Compiler Tab - correct settings</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (16).png" alt="" width="371"><figcaption><p>Solidity Compiler Tab - correct settings</p></figcaption></figure></div>
 
 4. Once the smart contract is compiled successfully, switch to the "`Deploy & Run Transactions`" tab.
 5. In the "`Environment`" dropdown menu, select "`Injected Provider - MetaMask`"; this will connect your MetaMask to Remix and will allow you to make transactions from that connected wallet.&#x20;
@@ -77,7 +77,7 @@ Make sure to have [Mode Testnet ](broken-reference)as your selected network in M
 {% endhint %}
 
 &#x20;\
-![](https://lh4.googleusercontent.com/jmsucoJ4vr4ByW3\_0Nt4gwlckzu78pvh7ugVp2nEep9z9LtpY-BuC5WmhX4k\_uKk2vA\_iIvDZg-VEn8YDzKdoSzmE327wjbLiCIpCGe9xc\_GAxBOC5-LYet-qBNPQ54W5waFpeMZak61a-rmk\_ITxog)                   ![](https://lh6.googleusercontent.com/nIYOD8FEnw-1qCtgMI\_uKK4qRwEjciveycdc3q6iLtuW7su7sOQMZHhG1dw8Rwk2ulO4JFlQU8YxQlJIB8c6uMZJ5t19PCikrkIKVsRZW68PVRz8RVs1NtQOxrQ6x7CwZXtwjlv6W4Fe9x45\_44LWSQ)
+![](https://lh4.googleusercontent.com/jmsucoJ4vr4ByW3_0Nt4gwlckzu78pvh7ugVp2nEep9z9LtpY-BuC5WmhX4k_uKk2vA_iIvDZg-VEn8YDzKdoSzmE327wjbLiCIpCGe9xc_GAxBOC5-LYet-qBNPQ54W5waFpeMZak61a-rmk_ITxog)                   ![](https://lh6.googleusercontent.com/nIYOD8FEnw-1qCtgMI_uKK4qRwEjciveycdc3q6iLtuW7su7sOQMZHhG1dw8Rwk2ulO4JFlQU8YxQlJIB8c6uMZJ5t19PCikrkIKVsRZW68PVRz8RVs1NtQOxrQ6x7CwZXtwjlv6W4Fe9x45_44LWSQ)
 
 6. Select the compiled contract you want to deploy and click ‘Deploy.’&#x20;
 
