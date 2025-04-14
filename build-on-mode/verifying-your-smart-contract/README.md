@@ -2,7 +2,7 @@
 
 Verifying a smart contract involves confirming that the contract's code on the blockchain matches the source code provided by the developer. This process allows all other users to see the source code in clear text that was deployed on chain. \
 \
-For example, in our SFS contract you can see it's verified and you can see the code:\
+For example, in this contract you can see it's verified and you can see the code:\
 \
 [https://explorer.mode.network/address/0x8680CEaBcb9b56913c519c069Add6Bc3494B7020?tab=contract](https://explorer.mode.network/address/0x8680CEaBcb9b56913c519c069Add6Bc3494B7020?tab=contract)\
 \
