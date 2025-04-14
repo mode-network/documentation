@@ -43,3 +43,12 @@ RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
 thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs).
 
 RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs)
+
+## QuickNode
+
+QuickNode provides two key RPC [services for Mode builders](https://www.quicknode.com/chains/mode?utm_source=modedocs\&utm_medium=docs):
+
+* [On-Demand RPC API Endpoints](https://www.quicknode.com/core-api?utm_source=modedocs\&utm_medium=docs): Fast and reliable access to the Mode blockchain for seamless integration.
+* [Dedicated Clusters](https://www.quicknode.com/clusters?utm_source=modedocs\&utm_medium=docs): Premium performance with unmetered billing, high rate limits, and robust infrastructure tailored for demanding applications.
+
+Together, they ensure efficient, scalable, and developer-friendly solutions no matter what you're building. 
