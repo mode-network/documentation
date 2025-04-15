@@ -51,3 +51,15 @@ SQD unlocks next-gen functionality for dApps, AI agents, analytics and ZK Proofs
 SQD is a decentralized hyper-scalable data platform optimized for providing efficient, permissionless access to large volumes of data. It currently serves historical on-chain data, including event logs, transaction receipts, traces, and per-transaction state diffs. SQD offers a powerful toolkit for creating custom data extraction and processing pipelines, achieving an indexing speed of up to 150k blocks per second.
 
 To get started, visit their [documentation](https://docs.sqd.dev/) or see their [EVM examples](https://github.com/subsquid-labs/squid-evm-examples) of what you can build with SQD.
+
+---
+
+## [Envio](https://envio.dev/)
+
+Envio is a full-featured indexing solution and data provider on Mode that provides apps and developers with a seamless and efficient way to query and aggregate real-time and historical blockchain data.
+
+[HyperIndex](https://docs.envio.dev/docs/HyperIndex/mode) let's you deploy a backend API for your application in minutes for any EVM. [HyperSync](https://docs.envio.dev/docs/HyperSync/overview) is a purpose-built data node on Mode that let's you query data up to 1000x faster than standard JSON-RPC using various languages (Python, Typescript, Rust and Go). 
+
+Learn how Envio is supporting apps on the OP Superchain, like [Aero-/Velodrome](https://github.com/enviodev/velodrome-indexer), [Bridgg](https://docs.envio.dev/blog/case-study-bridgg-op-superchain), [Sablier](https://docs.envio.dev/blog/case-study-sablier), and [Limitless](https://docs.envio.dev/blog/case-study-limitless-prediction-market).  
+
+To get started, visit the documentation or follow the [quickstart](https://docs.envio.dev/docs/quickstart) guide.
