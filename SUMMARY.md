@@ -78,6 +78,7 @@
 * [3️⃣ Governance Season 3 (ended)](usdmode/3-3-3-3-season-3/README.md)
   * [Governance Contract Addresses](https://aragonorg.notion.site/ModeDAO-Contracts-1206b18349dc800c8c08e5fc008d666f)
 * [4️⃣ Mode Governance Season 4](usdmode/season-4.md)
+* [5️⃣ Season 5](usdmode/season-5.md)
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
