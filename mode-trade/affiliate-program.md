@@ -8,7 +8,7 @@ Turn your Mode Trade experience into real rewards! As a Mode Trade user, you can
 
 ## How does it work?
 
-It’s simple: create your code, share it with your network, and watch your rewards grow as you help others discover a new era of decentralized trading with Mode Trade!
+It’s simple: create your code, share it with your network, and watch your rewards grow as you help others discover a new ear in AI trading with Mode Trade!
 
 ## How do I become an affiliate?
 
@@ -61,3 +61,9 @@ Once your code is created, simply copy it.
 ### 6. Share and earn
 
 Share your referral code with friends and family. When they start using Mode Trade, both you and your referrals will start receiving rewards!
+
+Your affiliate code is also available on PnL cards for social sharing:
+
+<div align="center">
+    <img alt="PnL social sharing card" src="share_pnl.png" width="768" />
+</div>
