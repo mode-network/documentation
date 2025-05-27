@@ -82,6 +82,10 @@
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
 
+## Mode Trade
+
+* [💰 Affiliate Program](mode-trade/affiliate-program.md)
+
 ## Other Docs
 
 * [🔓 General Security](other-docs/general-security/README.md)
