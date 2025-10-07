@@ -6,13 +6,20 @@
 * [🕐 Quick start](introduction/quick-start.md)
 * [✅ AI Agent Dev Roadmap](introduction/dev-onboarding-checklist.md)
 
+## Mode Trade
+
+* [🦾 Trading Agent Quickstart](mode-trade/quickstart-trading-agent.md)
+* [👨‍🏭 Create Trading Agent](mode-trade/create-trading-agent.md)
+  * [🗒️ Disclaimer](mode-trade/trading-agent-disclaimer.md)
+* [💰 Affiliate Program](mode-trade/affiliate-program.md)
+
 ## AI AGENTS
 
 * [🌅 The Rise of AI Agents](ai-agents/the-rise-of-ai-agents.md)
 * [Mode AI Terminal](ai-agents/mode-ai-terminal.md)
 * [🤷 What are AI Agents?](ai-agents/what-are-ai-agents.md)
-* [🏗️ Building your first agent](ai-agents/building-your-first-agent.md)
 * [Tutorials](ai-agents/tutorials/README.md)
+  * [🏗️ Building your first agent](ai-agents/building-your-first-agent.md)
   * [Quickstart](ai-agents/tutorials/quickstart.md)
 * [🛠️ AI Tooling](ai-agents/ai-tooling/README.md)
   * [AI Audits](ai-agents/ai-tooling/ai-audits.md)
@@ -81,10 +88,6 @@
 * [5️⃣ Season 5](usdmode/season-5.md)
 * [🌱 Staking](usdmode/staking.md)
 * [🎯 Mode Points Design](usdmode/mode-points-design.md)
-
-## Mode Trade
-
-* [💰 Affiliate Program](mode-trade/affiliate-program.md)
 
 ## Other Docs
 
