@@ -2,15 +2,13 @@
 description: This guide provides comprehensive documentation on Mode Trade Agents, including setup, management, and best practices.
 ---
 
-Certainly! Here is your **Mode Trade Agents Documentation** converted into clean and readable Markdown format:
-
-# Mode Trade Agents Documentation
+# Mode AI Trading Agents Documentation
 
 ## 1. Introduction
 
-### What are Mode Trade Agents?
+### What are Mode AI Trading Agents?
 
-Mode Trade Agents are automated trading assistants that help you trade more consistently. They are designed to handle execution, risk management, and trade monitoring so you don’t have to make decisions in the heat of the moment.  
+Mode AI Trading Agents are automated trading assistants that help you trade more consistently. They are designed to handle execution, risk management, and trade monitoring so you don’t have to make decisions in the heat of the moment.  
 Instead of constantly watching the markets or second-guessing your plan, an agent executes according to the rules you set. It helps you avoid emotional trading, manage entries and exits, and remain consistent over time.
 
 **What they are not:**

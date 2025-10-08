@@ -8,8 +8,8 @@
 
 ## Mode Trade
 
-* [🦾 Trading Agent Quickstart](mode-trade/quickstart-trading-agent.md)
-* [👨‍🏭 Create Trading Agent](mode-trade/create-trading-agent.md)
+* [🦾 AI Trading Agent Quickstart](mode-trade/quickstart-trading-agent.md)
+* [👨‍🏭 Create AI Trading Agent](mode-trade/create-trading-agent.md)
   * [🗒️ Disclaimer](mode-trade/trading-agent-disclaimer.md)
 * [💰 Affiliate Program](mode-trade/affiliate-program.md)
 

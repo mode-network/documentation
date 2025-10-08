@@ -30,7 +30,7 @@ Instead of constantly watching the market or second-guessing your plan, an agent
 
 ### 3. Configure Risk
 
-- Set how much of your sub-account to risk.
+- Decide how much of your sub-account you want to allocate.
 - Choose leverage carefully.
 - **Remember:**
   - **Maximum position size:** $5000
