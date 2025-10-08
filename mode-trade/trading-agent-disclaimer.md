@@ -1,16 +1,16 @@
 ---
-description: This guide provides the disclaimer and risk notice for using Mode Trade Agents.
+description: This guide provides the disclaimer and risk notice for using Mode AI Trading Agents.
 ---
 
 # Disclaimer and Risk Notice
 
 ## Trading Risk
 
-By using **Mode Trade Agents**, you acknowledge that trading digital assets involves a high degree of risk, including the potential loss of your entire investment. The performance of automated strategies may vary and there is **no guarantee of profit**. Past performance is **not indicative of future results**.
+By using **Mode AI Trading Agents**, you acknowledge that trading digital assets involves a high degree of risk, including the potential loss of your entire investment. The performance of automated strategies may vary and there is **no guarantee of profit**. Past performance is **not indicative of future results**.
 
 ## Independent Execution
 
-Mode Trade Agents execute trades automatically on your behalf. Execution outcomes may differ from other users due to variations in order timing, slippage, liquidity, and market conditions. As a result, your realised prices, position entries and exits, and overall profit and loss (PnL) may not match those of others running the same strategy.
+Mode AI Trading Agents execute trades automatically on your behalf. Execution outcomes may differ from other users due to variations in order timing, slippage, liquidity, and market conditions. As a result, your realised prices, position entries and exits, and overall profit and loss (PnL) may not match those of others running the same strategy.
 
 ## Sub-Account Requirements
 

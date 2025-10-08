@@ -1,5 +1,5 @@
 ---
-description: This guide provides comprehensive documentation on Mode Trade Agents, including setup, management, and best practices.
+description: This guide provides comprehensive documentation on Mode AI Trading Agents, including setup, management, and best practices.
 ---
 
 # Mode AI Trading Agents Documentation
@@ -124,7 +124,7 @@ This may cause the agent to behave unexpectedly. It is recommended not to manual
 
 ## 7. Disclaimer and Risk Notice
 
-Trading with Mode Trade Agents involves risk. By creating an agent, you agree to the following:
+Trading with Mode AI Trading Agents involves risk. By creating an agent, you agree to the following:
 
 - Trading digital assets is highly risky. Losses are possible, including the loss of all funds in a sub-account.
 - Agents are intended to assist with consistency and execution, not to guarantee profit.

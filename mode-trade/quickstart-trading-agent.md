@@ -2,11 +2,11 @@
 description: This guide shows how to quickly set up and launch a Mode Trade trading agent.
 ---
 
-# Quick Start: Mode Trade Agents
+# Quick Start: Mode AI Trading Agents
 
-## What are Mode Trade Agents?
+## What are Mode AI Trading Agents?
 
-Mode Trade Agents are automated trading assistants that help you trade more consistently. They handle execution, risk management, and trade monitoring so you don’t have to make decisions in the heat of the moment.
+Mode AI Trading Agents are automated trading assistants that help you trade more consistently. They handle execution, risk management, and trade monitoring so you don’t have to make decisions in the heat of the moment.
 
 Instead of constantly watching the market or second-guessing your plan, an agent executes the rules you set. This helps you:
 
