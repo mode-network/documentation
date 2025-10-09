@@ -35,6 +35,10 @@ Instead of constantly watching the markets or second-guessing your plan, an agen
 > **Example:**  
 > If you want to test an agent with $50, create a sub-account named “Test Agent,” transfer $50, and then launch the agent there.
 
+<div align="center">
+    <img alt="Mode Trade Sub Accounts Dropdown" src="sub-accounts.png" width="900" />
+</div>
+
 ### Step 2: Choose a Strategy
 
 When creating an agent, select a strategy type that fits your preferred style:
@@ -54,6 +58,10 @@ Every agent requires risk settings:
   - Maximum position size: **$5,000**
   - Minimum order size: **$10**
   - Your sub-account balance multiplied by your chosen leverage must be at least **$10**
+
+<div align="center">
+    <img alt="Mode Trade: Create AI Trading Agent" src="create-agent.png" width="600" />
+</div>
 
 ### Step 4: Launch Your Agent
 
@@ -78,6 +86,10 @@ Expanding an agent card provides more detail:
 - Timeframe and parameters used
 - Last update timestamp
 - Controls to edit, pause, or stop the agent
+
+<div align="center">
+    <img alt="Mode Trade: Manage AI Trading Agent" src="active-agents.png" width="900" />
+</div>
 
 ## 4. Managing Agents
 
