@@ -1,6 +1,6 @@
 # ⁉️ Randomness
 
-## Gelato
+[## Gelato](https://www.gelato.network/)
 
 Gelato VRF (Verifiable Random Function) - a tool designed to provide robust randomness with inherent verifiability. This option is only available on Mode Mainnet.
 
