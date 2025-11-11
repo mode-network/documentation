@@ -42,18 +42,6 @@
 ## Tutorials
 
 * [Interacting with Smart Contracts using ethers.js](build-on-mode/interacting-with-smart-contracts-using-ethers.js.md)
-* [SFS - Sequencer Fee Sharing](build-on-mode/sfs-sequencer-fee-sharing/README.md)
-  * [Register a Smart Contract](build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/README.md)
-    * [SFS - Registering a contract with Remix](build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md)
-    * [SFS - Register a Smart Contract with Thirdweb](build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-register-a-smart-contract-with-thirdweb.md)
-    * [SFS - Register a Smart Contract with Hardhat](build-on-mode/sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-register-a-smart-contract-with-hardhat.md)
-  * [Assign a Smart Contract](build-on-mode/sfs-sequencer-fee-sharing/assign-a-smart-contract/README.md)
-    * [SFS - Assign a contract to an existing NFT with Hardhat](build-on-mode/sfs-sequencer-fee-sharing/assign-a-smart-contract/sfs-assign-a-contract-to-an-existing-nft-with-hardhat.md)
-  * [Withdraw from the SFS](build-on-mode/sfs-sequencer-fee-sharing/withdraw-from-the-sfs/README.md)
-    * [With a wallet](build-on-mode/sfs-sequencer-fee-sharing/withdraw-from-the-sfs/with-a-wallet.md)
-    * [With a smart contract](build-on-mode/sfs-sequencer-fee-sharing/withdraw-from-the-sfs/with-a-smart-contract.md)
-  * [Check the SFS registry](build-on-mode/sfs-sequencer-fee-sharing/check-the-sfs-registry.md)
-  * [SFS FAQ](introduction/sequencer-fee-sharing/faq.md)
 * [Deploying a Smart Contract](build-on-mode/deploying-a-smart-contract/README.md)
   * [Using Hardhat](build-on-mode/deploying-a-smart-contract/using-hardhat.md)
   * [Using Thirdweb](build-on-mode/deploying-a-smart-contract/using-thirdweb.md)
