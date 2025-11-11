@@ -111,6 +111,30 @@ Transaction hash: 0xbe2d27554f130a720c4dd82dad055c941ca44dee836f6333a8507d76022c
 
 Copy the “Deployed to” value and store it somewhere to use later. This is the address of your contract.
 
+4.2. Create a deployment script:
+In the **/script** directory of your project, create a file named **DeployMyERC20.s.sol** and add the following content:
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import {Script} from "forge-std/Script.sol";
+import {MyERC20} from "../src/MyERC20.sol";
+
+contract DeployMyERC20 is Script {
+    function run() external {
+        uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
+        vm.startBroadcast(deployerPrivateKey);
+        MyERC20 token = new MyERC20();
+        vm.stopBroadcast();
+    }
+}
+```
+
+```bash
+forge script script/DeployMyERC20.s.sol:DeployMyERC20 --rpc-url <RPC_URL> --broadcast --private-key <YOUR_PRIVATE_KEY>
+```
+
 ## 5. Verifying the ERC20 token contract after deployment
 
 5.1. For already deployed contracts you can use the verify-contract command:
@@ -134,5 +158,3 @@ In the "Contract" tab you'll find your verified contract.
 Congratulations, you just deployed and verified a contract on Mode Network using Foundry.&#x20;
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-If you want the next challenge, you can try registering a contract for the SFS following this guide: [sfs-registering-a-contract-with-remix.md](../sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md "mention")\
