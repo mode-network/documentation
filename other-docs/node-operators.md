@@ -18,7 +18,7 @@ Optimism Fork (Holocene) will be activated on ​Mainnet​ on ​`Thu 09 Jan 20
 
 ### Snapshots
 
-Snapshots will help you save time while synching your node to Mode.&#x20;
+Snapshots will help you save time while syncing your node to Mode.&#x20;
 
 * Mainnet
 
