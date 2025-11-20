@@ -8,14 +8,12 @@
 
 ## Mode Trade
 
-* [🦾 AI Trading Agent Quickstart](mode-trade/quickstart-trading-agent.md)
-* [👨‍🏭 Create AI Trading Agent](mode-trade/create-trading-agent.md)
+* [🦾 AI Trading Agent](mode-trade/quickstart-trading-agent.md)
   * [🗒️ Disclaimer](mode-trade/trading-agent-disclaimer.md)
 * [💰 Affiliate Program](mode-trade/affiliate-program.md)
 
 ## AI AGENTS
 
-* [🌅 The Rise of AI Agents](ai-agents/the-rise-of-ai-agents.md)
 * [Mode AI Terminal](ai-agents/mode-ai-terminal.md)
 * [🤷 What are AI Agents?](ai-agents/what-are-ai-agents.md)
 * [Tutorials](ai-agents/tutorials/README.md)
