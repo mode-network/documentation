@@ -1,8 +1,10 @@
 ---
-description: This guide provides the disclaimer and risk notice for using Mode AI Trading Agents.
+description: >-
+  This guide provides the disclaimer and risk notice for using Mode AI Trading
+  Agents.
 ---
 
-# Disclaimer and Risk Notice
+# 🗒️ Disclaimer
 
 ## Trading Risk
 
@@ -14,22 +16,22 @@ Mode AI Trading Agents execute trades automatically on your behalf. Execution ou
 
 ## Sub-Account Requirements
 
-- Each agent must operate in its own sub-account.
-- Only one agent may run per sub-account.
-- You must create and fund a sub-account before launching an agent.
+* Each agent must operate in its own sub-account.
+* Only one agent may run per sub-account.
+* You must create and fund a sub-account before launching an agent.
 
 ## Position and Order Size Limits
 
-- The **maximum position size per agent** is limited to **$5,000 equivalent**.
-- The **minimum order size** on Mode Trade is **$10**.  
-  _It is your responsibility to ensure that your sub-account balance, when multiplied by the leverage you have selected, is sufficient to meet this minimum requirement._
+* The **maximum position size per agent** is limited to **$5,000 equivalent**.
+* The **minimum order size** on Mode Trade is **$10**.\
+  &#xNAN;_&#x49;t is your responsibility to ensure that your sub-account balance, when multiplied by the leverage you have selected, is sufficient to meet this minimum requirement._
 
 ## API Keys and Security
 
 When you create an agent, a new API key is generated for your Mode Trade sub-account. This key is stored securely and has restricted permissions:
 
-- It permits trading actions only.
-- It does **not** allow withdrawals of funds.
+* It permits trading actions only.
+* It does **not** allow withdrawals of funds.
 
 ## Agent Management
 

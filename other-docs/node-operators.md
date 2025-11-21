@@ -8,21 +8,20 @@ If you want to run a node for Mode you can follow these instructions:\
 {% hint style="warning" %}
 **UPCOMING HOLOCENE UPDATE**
 
-Optimism Fork (Holocene) will be activated on ​Mainnet​ on ​`Thu 09 Jan 2025 18:00:01 UTC`Prior to the update, for nodes/integrators:\
-
+Optimism Fork (Holocene) will be activated on ​Mainnet​ on ​`Thu 09 Jan 2025 18:00:01 UTC`Prior to the update, for nodes/integrators:\\
 
 * run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
 * run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
-* set on both the flag  `--override.holocene=1736445601`
+* set on both the flag `--override.holocene=1736445601`
 {% endhint %}
 
 ### Snapshots
 
-Snapshots will help you save time while synching your node to Mode.&#x20;
+Snapshots will help you save time while synching your node to Mode.
 
 * Mainnet
 
-Tuesday 3rd September **(latest)** -&#x20;
+Tuesday 3rd September **(latest)** -
 
 {% embed url="https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-09-03.tar" %}
 
@@ -38,13 +37,13 @@ Tuesday 3rd September **(latest)** -&#x20;
 
 * run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
 * run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
-* set on both the flag  `--override.holocene=1736445601`
+* set on both the flag `--override.holocene=1736445601`
 
 Optimism Fork (Holocene) will be activated on your ​Mainnet​ on ​`Thu 09 Jan 2025 18:00:01 UTC`Prior to the update, please confirm the following on external nodes/integrators:
 
 * run op-geth >= [v1.101411.2](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Fop-geth%2Freleases%2Ftag%2Fv1.101411.2\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T)
 * run op-node >= [v1.10.0](https://pylonlinks.com/link?url=https%3A%2F%2Fgithub.com%2Fethereum-optimism%2Foptimism%2Freleases%2Ftag%2Fop-node%252Fv1.10.0\&utm_campaign_id=b0864ff3-1c35-4e96-87fc-2c2706284a23\&utm_slack_channel=C05T5A68H9T) (for alt-da, consider respective forks like celestia/eigen)
-* set on both the flag  `--override.holocene=1736445601`\
+* set on both the flag `--override.holocene=1736445601`\
   \
   If you are not using the previous fork, Granite, on your external nodes (check the following flags is set ​`--override.granite`​), please reach out. In the case, you might need to enable the Granite hard fork flags two days before ​`Tue 07 Jan 2025 18:00:01 UTC`​. You can use the same software version and configure it with ​`--override.granite=1736272801`
 
@@ -52,7 +51,7 @@ Optimism Fork (Holocene) will be activated on your ​Mainnet​ on ​`Thu 09 J
 
 <details>
 
-<summary><strong>GRANITE UPDATE</strong> </summary>
+<summary><strong>GRANITE UPDATE</strong></summary>
 
 the Optimism Granite Hard Fork happened on `Wed 11 Sep 2024 16:00:01 UTC` . More info [here](https://docs.optimism.io/builders/notices/granite-changes).For external nodes/integrators:
 
@@ -92,15 +91,15 @@ Make the following checks to verify that your node is properly configured.
 
 _The Ecotone upgrade for OP Sepolia activated at **1708534800 Wed Feb 21 17:00:00 UTC 2024**._
 
-## Getting ready for Ecotone Upgrade (Dencun + EIP-4844)
+### Getting ready for Ecotone Upgrade (Dencun + EIP-4844)
 
-The Ecotone upgrade contains the Dencun upgrade from L1, and adopts EIP-4844 blobs for data-availability. \
+The Ecotone upgrade contains the Dencun upgrade from L1, and adopts EIP-4844 blobs for data-availability.\
 \
 Please refer to:\
 \
 [https://docs.optimism.io/builders/notices/ecotone-changes](https://docs.optimism.io/builders/notices/ecotone-changes)
 
-* You need l1 beacon api access for op-node and pass via --l1.beacon param (or OP\_NODE\_L1\_BEACON env).&#x20;
+* You need l1 beacon api access for op-node and pass via --l1.beacon param (or OP\_NODE\_L1\_BEACON env).
 * Consider having full-archive blobs access. if you are on the superchain you don't have to pass any new parameter.
 
 </details>

@@ -16,9 +16,9 @@ The 7 day withdrawal period is due to how optimistic rollups work, it's called t
 
 <summary>1 - Bridge to Ethereum</summary>
 
-First, go to [Mode's Bridge](https://app.mode.network/), click on **`Switch`** and select the token and input the amount you want to withdraw.&#x20;
+First, go to [Mode's Bridge](https://app.mode.network/), click on **`Switch`** and select the token and input the amount you want to withdraw.
 
-Click on <mark style="color:purple;">**`Review Withdrawal`**</mark> , then check the 7 days checkbox and initiate the withdrawal.&#x20;
+Click on <mark style="color:purple;">**`Review Withdrawal`**</mark> , then check the 7 days checkbox and initiate the withdrawal.
 
 You can see the transaction status of your withdrwal in the [<mark style="color:purple;">**`Transactions`**</mark>](https://app.mode.network/transactions/) section
 
@@ -36,13 +36,13 @@ Make sure you have ETH on Ethereum to pay for gas.
 
 <details>
 
-<summary>2 - Prove Withdrawal </summary>
+<summary>2 - Prove Withdrawal</summary>
 
 After waiting for 1 hour, your transaction should be ready to "Prove withdrawal".
 
-<img src="../../.gitbook/assets/image (19).png" alt="" data-size="original">\
+<img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="original">\
 \
-Now click <mark style="color:purple;">**`Prove`**</mark> and submit the transaction, this will start the[ 7 day waiting period for the withdrawal.](#user-content-fn-1)[^1]&#x20;
+Now click <mark style="color:purple;">**`Prove`**</mark> and submit the transaction, this will start the[ 7 day waiting period for the withdrawal.](#user-content-fn-1)[^1]
 
 </details>
 
@@ -52,14 +52,12 @@ Now click <mark style="color:purple;">**`Prove`**</mark> and submit the transact
 
 After proving the transaction you will have to wait 7 days until the status of the transaction is ready to finalise.\
 \
-![](<../../.gitbook/assets/image (21).png>) \
+![](<../../.gitbook/assets/image (21).png>)\
 \
-You can now  click <mark style="color:purple;">**`Claim`**</mark> and after approving the transcation you should see the funds in your wallet on the Ethereum network shortly. \
+You can now click <mark style="color:purple;">**`Claim`**</mark> and after approving the transcation you should see the funds in your wallet on the Ethereum network shortly.\
 \
 The fees paid here are on Ethereum network.
 
 </details>
-
-
 
 [^1]: The waiting period will only start counting after proving the withdrawal.

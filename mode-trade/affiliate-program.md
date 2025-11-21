@@ -22,41 +22,29 @@ Go to [https://trade.mode.network/affiliate](https://trade.mode.network/affiliat
 
 After connecting your wallet, you’ll be prompted to register. Approve the signing request in your wallet.
 
-<div align="center">
-    <img alt="Sign in dialog" src="sign_in-1.png" width="768" />
-</div>
+<div align="center"><img src="../.gitbook/assets/sign_in-1.png" alt="Sign in dialog" width="768"></div>
 
-<div align="center">
-    <img alt="Sign in request on metamask" src="sign_in-2.png" width="400" />
-</div>
+<div align="center"><img src="../.gitbook/assets/sign_in-2.png" alt="Sign in request on metamask" width="400"></div>
 
 ### 3. Enable trading
 
 Next, you’ll be asked to enable trading by confirming the request in your wallet.
 
-<div align="center">
-    <img alt="Enable trading dialog" src="enable_trading-1.png" width="768" />
-</div>
+<div align="center"><img src="../.gitbook/assets/enable_trading-1.png" alt="Enable trading dialog" width="768"></div>
 
-<div align="center">
-    <img alt="Enable trading request on metamask" src="enable_trading-2.png" width="400" />
-</div>
+<div align="center"><img src="../.gitbook/assets/enable_trading-2.png" alt="Enable trading request on metamask" width="400"></div>
 
 ### 4. Create your referral code
 
 Click the **Create referral code** button to generate your unique code.
 
-<div align="center">
-    <img alt="Create referral code button" src="create_referral_code.png" width="768" />
-</div>
+<div align="center"><img src="../.gitbook/assets/create_referral_code.png" alt="Create referral code button" width="768"></div>
 
 ### 5. Copy your referral code
 
 Once your code is created, simply copy it.
 
-<div align="center">
-    <img alt="Referral code" src="copy_referral_code.png" width="768" />
-</div>
+<div align="center"><img src="../.gitbook/assets/copy_referral_code.png" alt="Referral code" width="768"></div>
 
 ### 6. Share and earn
 
@@ -64,6 +52,4 @@ Share your referral code with friends and family. When they start using Mode Tra
 
 Your affiliate code is also available on PnL cards for social sharing:
 
-<div align="center">
-    <img alt="PnL social sharing card" src="share_pnl.png" width="768" />
-</div>
+<div align="center"><img src="../.gitbook/assets/share_pnl.png" alt="PnL social sharing card" width="768"></div>
