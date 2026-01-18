@@ -134,5 +134,3 @@ In the "Contract" tab you'll find your verified contract.
 Congratulations, you just deployed and verified a contract on Mode Network using Foundry.&#x20;
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-If you want the next challenge, you can try registering a contract for the SFS following this guide: [sfs-registering-a-contract-with-remix.md](../sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md "mention")\

@@ -178,6 +178,3 @@ Input the contract address from the console to view its details.
 Congratulations! You've successfully deployed a smart contract on the Mode Testnet using Hardhat and TypeScript.\
 \
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-If you want the next challenge, you can try registering a contract for the SFS following this guide: [sfs-registering-a-contract-with-remix.md](../sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md "mention")\
-\

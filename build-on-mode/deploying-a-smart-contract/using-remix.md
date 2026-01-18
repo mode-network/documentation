@@ -107,7 +107,3 @@ Notice that if you call one of the smart contract methods in Remix, you should s
 In this tutorial, we also went through the Mode bridge, block explorer, and how to interact with your contract.&#x20;
 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-If you want the next challenge, you can try registering a contract for the SFS following this guide: [sfs-registering-a-contract-with-remix.md](../sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md "mention")
-
-\

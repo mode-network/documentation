@@ -110,6 +110,3 @@ One of the features we liked the most was the “Build” tab in your smart cont
 <figure><img src="https://lh3.googleusercontent.com/aWeDDj0x77Elg_9l0l0mdkf-U9mt7QCCUgCVHo9OzlL6GYHo5cQxdTgx_ccRWeHyEBGimHbA0cK95bc3FGxH2Oa-fGyBhR2Ya9biR7S6WsKXWrzyK4uVeUlbVECYK8_4xE_fKlpmJbjb8LiT7piqng0" alt=""><figcaption></figcaption></figure>
 
 Congratulations! Now you have created and deployed a smart contract on Mode using the Thirdweb CLI. To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
-
-If you want the next challenge, you can try registering a contract for the SFS following this guide: [sfs-registering-a-contract-with-remix.md](../sfs-sequencer-fee-sharing/register-a-smart-contract/sfs-registering-a-contract-with-remix.md "mention")\
-\
