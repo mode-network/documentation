@@ -50,3 +50,10 @@ You can request Sepolia ETH quickly by connecting your wallet. You will also hav
 {% hint style="info" %}
 You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
 {% endhint %}
+
+
+***
+
+### [Chain Platform Faucet](https://faucet.chainplatform.co/)
+
+Get free testnet tokens for testnets. Fast, reliable and easy to use faucet platform.
