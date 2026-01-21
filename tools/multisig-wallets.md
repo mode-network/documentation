@@ -18,3 +18,11 @@ As part of the Superchain, the team of Protofire has deployed Safe (ex Gnosis) o
 Get seamless DeFi execution with Console on Mode and earn a 2x Mode points boost. Enjoy fast position management, automation, and secure dApp connectivity tailored for Mode users.\
 \
 [https://www.brahma.fi/mode](https://www.brahma.fi/mode)
+
+***
+
+## Ambire
+
+Еasy and secure self-custody for the EVM ecosystem. A hybrid account abstraction wallet supporting ERC-4337, EOAs and hardware wallets. EIP-7702-ready.\
+\
+[https://www.ambire.com](https://www.ambire.com)
