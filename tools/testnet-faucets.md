@@ -50,3 +50,13 @@ You can request Sepolia ETH quickly by connecting your wallet. You will also hav
 {% hint style="info" %}
 You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
 {% endhint %}
+
+***
+
+### [GetBlock's Sepolia Faucet](https://getblock.io/faucet/eth-sepolia/)
+
+Get 0.1 ETH every day for free with a faucet from GetBlock.
+
+{% hint style="info" %}
+Registration or login is required to request free testnet tokens.
+{% endhint %}
