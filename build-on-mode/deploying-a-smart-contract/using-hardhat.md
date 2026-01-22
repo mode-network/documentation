@@ -137,12 +137,14 @@ In the `scripts` directory, create a new file named `deploy.ts`:
 import { ethers } from "hardhat";
 
 async function main() {
-    const HelloWorld = await ethers.getContractFactory("HelloWorld");
     const gasPrice = ethers.utils.parseUnits('10', 'gwei'); // Adjust the '10' as needed
     const gasLimit = 500000; // Adjust this value based on your needs
-    const helloWorld = await HelloWorld.deploy({ gasPrice: gasPrice, gasLimit: gasLimit });
-    await helloWorld.deployed();
-    console.log("HelloWorld deployed to:", helloWorld.address);
+    const HelloWorld = await ethers.deployContract("HelloWorld", {
+      gasPrice: gasPrice,
+      gasLimit: gasLimit,
+    });
+    await HelloWorld.waitForDeployment();
+    console.log("HelloWorld deployed to:", HelloWorld.getAddress());
 }
 
 main()
