@@ -43,3 +43,9 @@ RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
 thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs).
 
 RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs)
+
+## QuickNode
+
+QuickNode provides hosted Mode RPC nodes granting flexible and reliable access to the network. For high-throughput or mission-critical applications, Dedicated Clusters deliver premium performance with unmetered billing, elevated rate limits, and robust infrastructure.
+
+Mode RPC: [https://www.quicknode.com/chains/mode](https://www.quicknode.com/chains/mode)
