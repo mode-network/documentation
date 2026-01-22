@@ -50,3 +50,15 @@ You can request Sepolia ETH quickly by connecting your wallet. You will also hav
 {% hint style="info" %}
 You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
 {% endhint %}
+
+***
+
+### [ethfaucet.com](https://ethfaucet.com?utm_source=mode_docs&utm_medium=docs)
+
+[ethfaucet.com](https://ethfaucet.com?utm_source=mode_docs&utm_medium=docs) provides developers with 0.1 Mode Sepolia ETH for free, claimable once every 24 hours.
+
+Operated and maintained by [BringID](https://www.bringid.org?utm_source=mode_docs&utm_medium=docs).
+
+{% hint style="info" %}
+Supports both addresses with transaction history and new addresses via Proof of Humanity verification.
+{% endhint %}
