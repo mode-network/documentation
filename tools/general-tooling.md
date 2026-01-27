@@ -6,6 +6,10 @@ Tenderly offers a wide range of dev tooling ranging from simulation APIs to RPC 
 
 ***
 
+## [Openfort](https://openfort.io/docs/?utm_source=optimism&utm_medium=docs&utm_campaign=backlinks)
+
+Openfort is an open-source wallet infrastructure solution. The core offerings include embedded wallets, global wallets and AA infrastructure (Paymaster and Bundler). It enables rapid integration of wallet functionality, intuitive onboarding, and stablecoin flows.
+
 ## [Particle Network](https://particle.network/)
 
 Particle Network provides AA-powered social logins on Mode Network, supercharging user experience through two-click onboarding.
