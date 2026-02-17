@@ -51,3 +51,14 @@ SQD unlocks next-gen functionality for dApps, AI agents, analytics and ZK Proofs
 SQD is a decentralized hyper-scalable data platform optimized for providing efficient, permissionless access to large volumes of data. It currently serves historical on-chain data, including event logs, transaction receipts, traces, and per-transaction state diffs. SQD offers a powerful toolkit for creating custom data extraction and processing pipelines, achieving an indexing speed of up to 150k blocks per second.
 
 To get started, visit their [documentation](https://docs.sqd.dev/) or see their [EVM examples](https://github.com/subsquid-labs/squid-evm-examples) of what you can build with SQD.
+
+---
+
+## [Zerion API](https://zerion.io/api)
+
+Zerion API is an enterprise-grade wallet data API that delivers real-time token balances, DeFi positions, transaction history, and NFT holdings across Mode and other chains. It returns normalized, human-readable data through a unified schema, so you can skip building and maintaining custom indexers.
+
+With a single integration, developers on Mode get access to portfolio-level data, PnL calculations, and enriched transaction decoding across all supported chains. Zerion API is a great fit for wallets, portfolio trackers, AI agents, and any app that needs onchain context.
+
+To get started, [create free API keys](https://dashboard.zerion.io/) or explore the [documentation](https://developers.zerion.io/).
+
