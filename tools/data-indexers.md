@@ -1,5 +1,17 @@
 # 🗂️ Data Indexers
 
+## [Envio](https://envio.dev/?utm_source=mode&utm_medium=partner-docs)
+
+Envio is the data layer for blockchain apps. It gives Mode developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud. Envio's HyperIndex natively supports indexing any EVM chain out of the box, and Mode is served by HyperSync, Envio's high-performance data engine that is up to 2000x faster than traditional RPC.
+
+Auto-generate an indexer from any verified contract with `pnpx envio init`, write event handlers in TypeScript, JavaScript, or ReScript, and deploy to Envio Cloud or self-host. HyperIndex supports reorgs, real-time and historical data, historical backfills at 30,000+ events per second, and multichain data aggregation across EVM and non-EVM networks.
+
+The Mode HyperSync endpoint is `https://mode.hypersync.xyz`.
+
+Get started with the [HyperIndex quickstart](https://docs.envio.dev/docs/HyperIndex/quickstart?utm_source=mode&utm_medium=partner-docs) or read the [documentation](https://docs.envio.dev/?utm_source=mode&utm_medium=partner-docs).
+
+---
+
 ## [Goldsky](https://goldsky.com/)
 
 Goldsky offers two core self-serve products that can be used independently or in conjunction to power your data stack. Subgraphs that have flexible indexing with typescript, with support for webhooks and more. Then also Mirror which lets you get live blockchain data directly into your database or message queues with a single yaml config.\
