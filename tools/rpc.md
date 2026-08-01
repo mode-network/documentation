@@ -43,3 +43,7 @@ RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
 thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs).
 
 RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs)
+
+## Independent Benchmark
+
+For an independent latency and reliability comparison of public Mode RPC endpoints, see the [OpenChainBench Mode RPC benchmark](https://openchainbench.com/benchmarks/mode-rpc). It covers a set of community providers, with latency (p50/p90/p99) and success rate probed every 60 seconds from three regions and published under CC BY 4.0 alongside the open-source harness.
