@@ -2,9 +2,9 @@
 
 ## [Envio](https://envio.dev/?utm_source=mode&utm_medium=partner-docs)
 
-Envio is the data layer for blockchain apps. It gives Mode developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud. Envio's HyperIndex natively supports indexing any EVM chain out of the box, and Mode is served by HyperSync, Envio's high-performance data engine that is up to 2000x faster than traditional RPC.
+Envio builds custom blockchain APIs and analytics. Mode developers can use HyperIndex to choose the contracts and events to track, write TypeScript handlers and query the result through a GraphQL API, then run it themselves or deploy to Envio Cloud. HyperSync serves Mode logs, transactions and blocks, filtered on the server.
 
-Auto-generate an indexer from any verified contract with `pnpx envio init`, write event handlers in TypeScript, JavaScript, or ReScript, and deploy to Envio Cloud or self-host. HyperIndex supports reorgs, real-time and historical data, historical backfills at 30,000+ events per second, and multichain data aggregation across EVM and non-EVM networks.
+Generate an indexer from any verified contract with `pnpx envio init`. HyperIndex handles reorgs and can aggregate data across EVM and non-EVM networks.
 
 The Mode HyperSync endpoint is `https://mode.hypersync.xyz`.
 
