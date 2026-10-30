@@ -1,5 +1,17 @@
 # 🗂️ Data Indexers
 
+## [Envio](https://envio.dev/?utm_source=mode&utm_medium=partner-docs)
+
+Envio builds custom blockchain APIs and analytics. Mode developers can use HyperIndex to choose the contracts and events to track, write TypeScript handlers and query the result through a GraphQL API, then run it themselves or deploy to Envio Cloud. HyperSync serves Mode logs, transactions and blocks, filtered on the server.
+
+Generate an indexer from any verified contract with `pnpx envio init`. HyperIndex handles reorgs and can aggregate data across EVM and non-EVM networks.
+
+The Mode HyperSync endpoint is `https://mode.hypersync.xyz`.
+
+Get started with the [HyperIndex quickstart](https://docs.envio.dev/docs/HyperIndex/quickstart?utm_source=mode&utm_medium=partner-docs) or read the [documentation](https://docs.envio.dev/?utm_source=mode&utm_medium=partner-docs).
+
+---
+
 ## [Goldsky](https://goldsky.com/)
 
 Goldsky offers two core self-serve products that can be used independently or in conjunction to power your data stack. Subgraphs that have flexible indexing with typescript, with support for webhooks and more. Then also Mirror which lets you get live blockchain data directly into your database or message queues with a single yaml config.\
