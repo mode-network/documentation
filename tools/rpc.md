@@ -43,3 +43,11 @@ RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
 thirdweb consistently ranks amongst the highest performing RPC endpoints. Begin transacting and reading on the MODE network without running your own node architecture as well as seeing real time RPC status and endpoint [here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs).
 
 RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs\&utm_medium=docs)
+
+## BlockVectra
+
+BlockVectra offers a keyless HTTP JSON-RPC endpoint for Mode mainnet (chain ID `34443`). The public endpoint is limited to 3 requests per second per IP per instance, with a burst of 20 and a maximum batch size of 10. Public historical reads are limited to the latest 1,000 blocks; this is not an archive endpoint.
+
+RPC Endpoint: [https://api.blockvectra.com/v1/mode_mainnet/public](https://api.blockvectra.com/v1/mode_mainnet/public)
+
+See the [Mode RPC guide](https://blockvectra.com/en/chains/mode_mainnet/?ref=mode-docs-rpc) for connection examples and the [public capability catalog](https://api.blockvectra.com/v1/chains) for current methods and limits.
