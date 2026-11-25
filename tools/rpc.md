@@ -46,6 +46,6 @@ RPC Endpoint: [View Endpoint Here](https://thirdweb.com/mode?utm_source=modedocs
 
 ## Spectrum Nodes
 
-Spectrum Nodes serves Mode Mainnet and Mode Sepolia RPC from our own bare metal servers, with archive data and debug and trace methods.
+Spectrum Nodes serves Mode Mainnet and Mode Sepolia RPC from our self operated Tier III data centers, with archive data and debug and trace methods.
 
 RPC Endpoint: [Spectrum Nodes Mode page](https://spectrumnodes.com/networks/mode-rpc)
